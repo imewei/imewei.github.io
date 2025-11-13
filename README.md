@@ -1,52 +1,94 @@
-# MSD Soft Matter Lab Website
+# MSD Soft Matter Lab (imewei.github.io)
 
-This is the personal website for the MSD Soft Matter Lab, led by Dr. Wei Chen at Argonne National Laboratory.
+This repository hosts the next-generation Jekyll site for the MSD Soft Matter Lab led by Dr. Wei Chen at Argonne National Laboratory. It contains:
 
-## About
+- A GitHub Pages–compatible Jekyll scaffold (`_config.yml`, `_layouts/`, `_includes/`, `_data/`, `pages/`, `assets/`).
+- Reference artifacts gathered from the legacy Google Site (`docs/reference-shots`, `docs/inventory.md`).
+- Automation tooling for content migration (`scripts/import_google_site.py`) and mirroring (`scripts/mirror.sh`).
 
-The Chen Team is located in the Materials Science Division at Argonne National Laboratory, focusing on developing sustainable materials through innovative research in:
+## Quick Start
 
-- Adaptive and Dynamic Nanocomposites
-- Non-Equilibrium Physics
-- Sustainable Biocomposites
-- Hetero-Charged Polymers
-- Redox Gating
+### Serve locally
 
-## Website Structure
+```bash
+bundle install           # installs github-pages + deps
+bundle exec jekyll serve --livereload
+# visit http://127.0.0.1:4000
+```
 
-The website includes the following pages:
+### Production build
 
-- **Home** (`index.html`) - Overview of the lab and research highlights
-- **Wei Chen** (`wei-chen.html`) - Principal investigator's profile and background
-- **Our Team** (`team.html`) - Current and former lab members
-- **Research** (`research.html`) - Detailed research project descriptions
-- **Publications** (`publications.html`) - Recent publications and achievements
-- **Facilities** (`facilities.html`) - Lab equipment and collaborative resources
-- **Links** (`links.html`) - Related organizations and resources
-- **Contact** (`contact.html`) - Contact information and location
+```bash
+JEKYLL_ENV=production bundle exec jekyll build
+```
 
-## Deployment
+### Deploy on GitHub Pages
 
-This website is designed to be deployed on GitHub Pages. To enable it:
+1. Push to the `main` branch.
+2. In GitHub ➜ Settings ➜ Pages, set **Source** to `GitHub Actions` (or `main / (root)` if you prefer the legacy workflow).
+3. The default GitHub Pages workflow provided by `github-pages` will publish `_site/` automatically.
 
-1. Go to your repository settings on GitHub
-2. Navigate to "Pages" in the left sidebar
-3. Under "Source", select the branch you want to deploy (usually `main`)
-4. Click "Save"
-5. Your website will be available at `https://imewei.github.io`
+## Editing Content
 
-## Customization
+- Author primary pages under `pages/` (Markdown + YAML front matter) and let `_data/navigation.yml` define the navigation order/title.
+- Use `_layouts/page.html` for most content; `_layouts/default.html` already wires in header/nav/footer includes.
+- Store shared structured data in `_data/*.yml` (e.g., future `people.yml`, `publications.yml`).
+- Add images to `assets/img/` and reference them with absolute paths such as `/assets/img/lab/beamline.jpg`.
+- Run `bundle exec jekyll build` before committing to catch Liquid/front-matter issues.
 
-- **Styles**: Edit `styles.css` to customize colors, fonts, and layout
-- **Content**: Update individual HTML files to modify page content
-- **Navigation**: The navigation menu is consistent across all pages - update it in each HTML file if you add new pages
+## Importer Workflow (Google Site ➜ Jekyll)
 
-## Contact
+`scripts/import_google_site.py` fetches the eight public Google Site pages, converts them to Markdown, and downloads images locally.
 
-For inquiries about the lab, please contact:
-- Email: wchen@anl.gov
-- Phone: (630) 252-2462
+```bash
+python3 -m venv .venv && source .venv/bin/activate    # optional
+pip install -r scripts/requirements.txt
+
+# dry-run specific page (cached where possible)
+python scripts/import_google_site.py --pages research
+
+# refresh everything (re-download HTML + assets)
+python scripts/import_google_site.py --force-refresh
+```
+
+Key features:
+- Caches raw HTML under `.cache/google_site/` so re-runs are fast.
+- Saves Markdown output to `pages/<slug>.md` with clean front matter.
+- Downloads images into `assets/img/imported/<slug>/` and rewrites `img` tags to local paths; falls back to remote URLs if a download fails.
+- Sleeps between requests (`--delay` flag, default 1.0 s) to stay polite.
+
+## Mirror Workflow (snapshot `_site/`)
+
+Use `scripts/mirror.sh` to capture a fully linked snapshot of the staged Google Site (or any target) into `tmp/site-mirror`. It combines a throttled `wget` crawl with the Python post-processor `scripts/postprocess_mirror.py`.
+
+```bash
+./scripts/mirror.sh \
+  --source https://sites.google.com/view/msdsoftmatter \
+  --output tmp/site-mirror \
+  --depth 5 \
+  --retries 3
+
+# Inspect normalized output
+npx serve tmp/site-mirror/staging
+```
+
+Highlights:
+- Stores immutable runs under `tmp/site-mirror/runs/<timestamp>/` and symlinks `latest`, `raw`, `staging` for convenience.
+- Rewrites all internal links to root-relative paths and relocates non-HTML assets under `/assets/`.
+- Upgrades `lh3.googleusercontent.com` images to their high-resolution `=s0` variants when available.
+
+## Documentation
+
+- `docs/architecture.md` – deep dive into layouts/includes/data, CSS variable strategy, nav config, authoring guidance, and workflow diagrams.
+- `docs/inventory.md` + `docs/site-map.json` – crawl output from the legacy Google Site.
+
+## Contributing
+
+1. Create a feature branch.
+2. Run `bundle exec jekyll build` and (optionally) `python scripts/import_google_site.py --pages home` to ensure tooling still works.
+3. Commit with descriptive messages referencing files touched.
+4. Open a pull request; include before/after screenshots for visual changes.
 
 ## License
 
-© 2025 MSD Soft Matter Lab, Argonne National Laboratory
+Content and code © {{ 'now' | date: '%Y' }} MSD Soft Matter Lab, Argonne National Laboratory. Unless otherwise stated, source files are released under the MIT License.

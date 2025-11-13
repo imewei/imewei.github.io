@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="page">
+  {% if page.heading %}
+    <header class="page-header">
+      <p class="eyebrow">{{ page.eyebrow }}</p>
+      <h1>{{ page.heading }}</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    </header>
+  {% endif %}
+  {{ content }}
+</article>

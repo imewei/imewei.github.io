@@ -1,0 +1,45 @@
+title: MSD Soft Matter Lab
+description: >-
+  Research group led by Dr. Wei Chen within Argonne National Laboratory's Materials Science Division.
+url: https://imewei.github.io
+baseurl: ""
+timezone: America/Chicago
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      hero_image: /assets/img/hero-placeholder.jpg
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+sass:
+  style: compressed
+
+exclude:
+  - tmp
+  - node_modules
+  - vendor
+  - scripts/*.pyc
+  - scripts/__pycache__
+  - README.old.md
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+navigation:
+  data_file: navigation

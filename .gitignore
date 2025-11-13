@@ -1,0 +1,15 @@
+/.claude
+.DS_Store
+.code/
+/.bundle/
+/.cache/
+_site/
+.jekyll-cache/
+.sass-cache/
+tmp/
+tmp/site-mirror/
+tmp/site-mirror/**
+/vendor/
+vendor/bundle/
+*.log
+wget-log*
