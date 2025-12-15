@@ -7,6 +7,8 @@ hero_title: "Wei Chen, Ph.D."
 hero_subtitle: "Principal Investigator, MSD Soft Matter Lab"
 ---
 
+![Wei Chen](/assets/img/team/wei-chen.jpg)
+
 ## Education
 
 **Ph.D.** Polymer Science and Engineering
