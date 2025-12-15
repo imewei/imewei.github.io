@@ -1,0 +1,228 @@
+# MSD Soft Matter Lab Inventory
+
+## 1. MSD Soft Matter Lab
+- URL: https://sites.google.com/view/msdsoftmatter/
+- Sections: h.INITIAL_GRID.95uuumsnwnr9, h.25d61a0a74f2336a_63, h.6f7bd8ae4056248d_13, h.33efd66436177895_3, h.3d4102189198f89f_151
+- Excerpt: Chen Team  Located in the Nonequilibrium Soft and Active Matter Group within the Materials Science Division (MSD) at Argonne National Laboratory, our team focuses on creating sustainable materials to address global challenges. We use advanced synthesis methods and in situ X-ray characterization tools to develop materials with practical and useful properties. Our main research areas include: Adapti
+
+## 2. MSD Soft Matter Lab - Contact
+- URL: https://sites.google.com/view/msdsoftmatter/contact
+- Sections: h.481559c6bb476193_8, h.13ece76092714973_58, h.481559c6bb476193_66, h.481559c6bb476193_60, h.3d4102189198f89f_151
+- Excerpt: CONTACT  Argonne’s Energy Sciences Building (Building 241) Wei Chen, Ph. D. Materials Science Division (MSD) Center for Molecular Engineering (CME) Argonne National Laboratory 9700 South Cass Ave., Bldg. 241, OFC B270 Lemont, IL 60439 USA Office Phone: (630) 252-2462 Email: wchen@anl.gov Pritzker School of Molecular Engineering (PME) Consortium for Advanced Science and Engineering (CASE) The Unive
+
+## 3. MSD Soft Matter Lab - Facilities
+- URL: https://sites.google.com/view/msdsoftmatter/facilities
+- Sections: h.5cde49f99190416b_70, h.4b2489e70bfa4ffb_46, h.177defb8509afec2_32, h.6836f5685303fa77_129, h.4b2489e70bfa4ffb_22, h.6836f5685303fa77_105, h.2d61da2dc024af69_0, h.6836f5685303fa77_140, h.b03d1dc344daabd_0, h.6836f5685303fa77_130, h.4b2489e70bfa4ffb_68, h.4b2489e70bfa4ffb_89, h.26c933333e5c1d12_61, h.26c933333e5c1d12_103, h.6836f5685303fa77_134, h.6836f5685303fa77_82, h.2d61da2dc024af69_266, h.be0fe619ec91843_37, h.2d61da2dc024af69_164, h.2d61da2dc024af69_173, h.2d61da2dc024af69_182, h.2d61da2dc024af69_201, h.3d4102189198f89f_151
+- Excerpt: Research Facilities  EQUIPMENT Materials Synthesis and Processing High-Vacuum Schlenk Apparatus for Precision Synthesis Anionic Polymerization Procedures Series 4530 Floor Stand Reactors (Parr Instrument) Manuals Operation Procedures Solvent Purification System (Mbraun SPS-800) Manuals Operation Procedures Glovebox Workstations & Acryl-Glovebox ( Mbraun) Manuals Operation Procedures Spin Coater ( 
+
+## 4. MSD Soft Matter Lab
+- URL: https://sites.google.com/view/msdsoftmatter/home
+- Sections: h.INITIAL_GRID.95uuumsnwnr9, h.25d61a0a74f2336a_63, h.6f7bd8ae4056248d_13, h.33efd66436177895_3, h.3d4102189198f89f_151
+- Excerpt: Chen Team  Located in the Nonequilibrium Soft and Active Matter Group within the Materials Science Division (MSD) at Argonne National Laboratory, our team focuses on creating sustainable materials to address global challenges. We use advanced synthesis methods and in situ X-ray characterization tools to develop materials with practical and useful properties. Our main research areas include: Adapti
+
+## 5. MSD Soft Matter Lab - Links
+- URL: https://sites.google.com/view/msdsoftmatter/links
+- Sections: h.13ece76092714973_60, h.13ece76092714973_71, h.605562e224c4cd90_3, h.13ece76092714973_83, h.3d4102189198f89f_151
+- Excerpt: Links  Team Box Folder MyArgonne Aware (Work Control Documents) TMS (Safety Training) CORAL (Chemical Inventory) PANDA (Publication Approval) PANDA Submission Information BES MSE Acknowledgements Safety Inspection Checklist Waste Management Lab Signages Letterhead Template PowerPoint Template BES-MSE Highlight Template (Note: please log in with your Argonne credentials.) Other Related Links: Cente
+
+## 6. MSD Soft Matter Lab - Our Team
+- URL: https://sites.google.com/view/msdsoftmatter/our-team
+- Sections: h.3d4102189198f89f_1, h.4b2489e70bfa4ffb_21, h.3d4102189198f89f_55, h.5c42bf4af558dd58_0, h.5c42bf4af558dd58_21, h.26c933333e5c1d12_22, h.26c933333e5c1d12_26, h.3d4102189198f89f_151
+- Excerpt: Our team  Meet the team Jinwoo Park Postdoctoral Fellow jinwoo.park@anl.gov Nathan Maslowski PhD Candidate (UChicago GRC Program) nmaslowski@anl.gov Heyi Liang Resident Associate (de Pablo Group @ New York University ) hliang@anl.gov Louie Edano Graduate Research Aide (The University of Illinois Chicago) ledano@anl.gov Roushan Singh Visiting Graduate Student ( The University of Illinois Chicago ) 
+
+## 7. MSD Soft Matter Lab - Publications
+- URL: https://sites.google.com/view/msdsoftmatter/publications
+- Sections: h.5cde49f99190416b_1, h.13ece76092714973_44, h.4b2489e70bfa4ffb_17, h.3d4102189198f89f_151
+- Excerpt: Publications Recent Publications Erwin, A. J.; Hu, S.; Zhou, H.; Miller, S. D.; Musterman, E. J.; Kiss, A. M.; Yang, Y.; Zhang, Y.; Chen, W. Tunable 3D Aerosol Jet Printing of Low-Power Redox-Gated Transistors with Multicomponent Inks. Adv. Mater. Technol. , 202 5 , e00648. https://doi.org/10.1002/admt.202500648 . Zhang, L.; Liu, C.; Cao, H.; Erwin, A. J.; Fong, D. D.; Bhattacharya, A.; Yu, L.; St
+
+## 8. MSD Soft Matter Lab - Research
+- URL: https://sites.google.com/view/msdsoftmatter/research
+- Sections: h.25d61a0a74f2336a_23, h.25d61a0a74f2336a_58, h.26c933333e5c1d12_27, h.5c42bf4af558dd58_43, h.25d61a0a74f2336a_27, h.163087333f101813_0, h.25d61a0a74f2336a_37, h.3d4102189198f89f_151
+- Excerpt: Research  Adaptive and Dynamic Nanocomposites We develop adaptive and dynamic nanocomposites made of polymers and nanofillers connected by reversible bonds. These materials can change shape, stiffness, or conductivity in response to heat, stress, or electric fields. They are strong, self-healing, and recyclable. Nanofillers such as nanoparticles, nanoclays, and fibers improve mechanical and therma
+
+## 9. MSD Soft Matter Lab - Wei Chen
+- URL: https://sites.google.com/view/msdsoftmatter/wei-chen
+- Sections: h.aa280eb28e724f3_1, h.aa280eb28e724f3_8, h.aa280eb28e724f3_9, h.3d4102189198f89f_151
+- Excerpt: Wei Chen  wei chen B.S. Chemistry, Jilin University, 1996 – 2000 M.S. Inorganic Chemistry, Jilin University, 2000 – 2003. Advisor: Prof. Jie-Sheng Chen Ph.D. Polymer Science and Engineering, University of Massachusetts - Amherst, 2005 – 2010. Advisor: Prof. Thomas P. Russell Argonne Director’s Postdoctoral Fellow , Center for Nanoscale Materials, Argonne National Laboratory, 2010-2012. Advisor: Dr
+
+## Assets
+- https://anl.box.com/s/0lpsyo6h43mg0u2vo1dlu7nnbaqlwlwq
+- https://anl.box.com/s/39mojl9kac7ky10ed3fu2ll0yg6fnhii
+- https://anl.box.com/s/3fkfouh2d243j6rzbdqxgpz6wnvgzxel
+- https://anl.box.com/s/3tbdbvdplkv1ucaht9w9b8ujc6xtk651
+- https://anl.box.com/s/4gtc6rb9oxiwp3kaia1goqiqb14chhad
+- https://anl.box.com/s/6r9hsgloz97q9o5fjd47clls5f2xs0zm
+- https://anl.box.com/s/7yhpod4us4z3rzz9whkoi2mbynm7n2zq
+- https://anl.box.com/s/8n0d5xyxk1oiidr104utg7n5xqmpuldh
+- https://anl.box.com/s/8n6b4ng1kxhwrid5e6ha3gm8t9em36fd
+- https://anl.box.com/s/agw9u9i0k35c4wr0bnwvfki3xw5sfkuy
+- https://anl.box.com/s/ahw8oklf1uj32zd2bqrqalkhwatfxl9c
+- https://anl.box.com/s/amm595fb9gdbhjh7j7n3tahmz3ks2nko
+- https://anl.box.com/s/b54mrmi1vvb9mo7selnn6avm4q665jkn
+- https://anl.box.com/s/bb3ovs77jyl39ly9i7s6ut6mho0wui89
+- https://anl.box.com/s/bvesgevtigvonvg15hkbbzvzn9ji23uk
+- https://anl.box.com/s/cemgw7ruizur6a0yaykfiqvpqmtqy4lz
+- https://anl.box.com/s/cqa1d18yoo3byxsma0jvw1x7gi3tbuo7
+- https://anl.box.com/s/d8flcja3to6zmv4v5yynolbvnuvxj0sf
+- https://anl.box.com/s/ekvhr0ff7koivozch9rd5e47sw9ui5xz
+- https://anl.box.com/s/f28tc8zvgunwi85b83ev9omnh9xfwng2
+- https://anl.box.com/s/fvinc27ajmaxzehz7im0v3qvxyc0sioy
+- https://anl.box.com/s/ga2zvns6fat8brsk2fzxaaplo8aynuv2
+- https://anl.box.com/s/gy6f15ent6eywijkhcj17en0w9gftnfy
+- https://anl.box.com/s/hfnlisqu6bvm2v9a98ygli5ofxh555uf
+- https://anl.box.com/s/i8g1a4f6cye0ogjrcufn2fj8sw1qw780
+- https://anl.box.com/s/ibucjbdtb4r1s31jkzek550kt5vrg4ux
+- https://anl.box.com/s/iqkd1zxukkioc6umlr4m0khk0yaawmou
+- https://anl.box.com/s/iz1fw8tqec4dmyll6s2p0gb7v8lr9eaf
+- https://anl.box.com/s/jktgf9r0eiue1sabbfk46jy0mr2zyfl1
+- https://anl.box.com/s/k3xmp9yxusbzy62w3a81g82fxcqlbz77
+- https://anl.box.com/s/kc88qxhsrettzkgqwu6av450aabgq8v3
+- https://anl.box.com/s/ki1sziou2e5oskyoxg1qnh4kon4b5t6r
+- https://anl.box.com/s/liaki0zcus0ee32qc31vskkh858bscnd
+- https://anl.box.com/s/lqh18ka2i2x594b5ko6d0tkuokifebml
+- https://anl.box.com/s/m3i4k6n1o4oic9nwyip547uhl6jdvrg2
+- https://anl.box.com/s/n9c5hi89b6hsg9i73lv7um1t0uj0dwzn
+- https://anl.box.com/s/nrygbu07rqxczjmzt7ec2q10lyrjsfjs
+- https://anl.box.com/s/nxijpnzma0mbqogg3446gx3m2hgg2jk6
+- https://anl.box.com/s/q5f8izuwwi9bx375dc3htpk93eszivqj
+- https://anl.box.com/s/qccall5vhrbgoraaumsvn3ymggf5lspp
+- https://anl.box.com/s/qemq1aq100b9b3f5p4mo4u7hx8n1s509
+- https://anl.box.com/s/qpm1ojljgc8b9f0yx3oye775jd4ob7qu
+- https://anl.box.com/s/rhftcn5l8a7vi742erfz55ehgggh43q9
+- https://anl.box.com/s/sj2pnqcia1reogui0n6ra6dpmjaaq3wn
+- https://anl.box.com/s/sv4ycot2t8wzvjd6urqpv2rdiyq7hxqu
+- https://anl.box.com/s/swp5wkfjki6rq95dfvbk9ciiysy32ylt
+- https://anl.box.com/s/t9ccrk46c6lfji9vqbl3e9t64x6205yj
+- https://anl.box.com/s/tmvs4y4y0vdly7imv5pz4pbcgzndt2zq
+- https://anl.box.com/s/tt2az6oit5ze6tm1n9k3t8iqtrs1rsp0
+- https://anl.box.com/s/ty9rc6xr6jlnklns6zsgxqrf18gltjmf
+- https://anl.box.com/s/ui9xpyubcy0xhvaz77kiwla1av86b1eb
+- https://anl.box.com/s/uksi397mmx08j2rsfke0ec8nqva1n5x2
+- https://anl.box.com/s/vd7u6m40yuu9713vdszgtv4qf2qdvusf
+- https://anl.box.com/s/vw7m4ym9v75n070p1lgt2l5wjmmzxgbm
+- https://anl.box.com/s/vx9cewklhu1hz6y8hs0gt3y3qumkw26l
+- https://anl.box.com/s/wdl1ttdroyomxvy5ybybb06igedkj5ay
+- https://anl.box.com/s/x7l5i9tcjircae4k2v043ygazumlh03h
+- https://anl.box.com/s/z1njwzk5qa6u75ssn6arl8eql6ni0op3
+- https://anl.box.com/s/zoh512zps2i8l6ltirl51vwluxccve0d
+- https://anl.box.com/s/zugvxzgloi8jjbpafkuwmhkbs0pktfhr
+- https://anl.box.com/s/zwn4kjmxbgymj0xim3jysb39j31eu3ef
+- https://cnm.anl.gov/
+- https://cnm.anl.gov/pages/polybot
+- https://doi.org/10.1002/adma.202308871
+- https://doi.org/10.1002/adma.202470124
+- https://doi.org/10.1002/admt.202500648
+- https://doi.org/10.1038/s41467-024-49381-z
+- https://doi.org/10.1063/5.0217899
+- https://doi.org/10.1073/pnas.2401162121
+- https://drive.google.com/file/d/1-ijC9KQlzSmAkoX9VKgI8JA7sMMJ-NNf/view?usp=drive_link
+- https://lh3.googleusercontent.com/sitesv/AAzXCkc-fhsWSqs1xABG5bEKdzkzFShIAD63hduucYLek0zuImDmA-YLU3u3dRGhNwQvjiIya8yVUqnwM35IQfRQUpykx3L51QNGueN2-Mt71dK2TagCLoDRCLgTWgV4zZj2OKVhtFW0g1sseeoPX87p1X38Z4JZsGw-pLEkFVjeEq6HWFONKZEG70mBaNha4lmvYPnD1Hdz5Jrut62uamtx_UQnJT1BrLwGKJT4Cnc=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkc3zGmbWFMuJCCSfDJ94RJQ_dUeeVmt4SUaZy_4ieoJl63-pmfYOOnGZ05Z-lvRXF5TsTvNOKRIHk4fmezaNrZPtlUKQPvUrWzBBl2q6RIghwHutldJE1hZkEiUi50mr17DkMOUZfsJfKYrbko8KuxEjjqRG5MZA_OJKV6QvvufYi3OyXyRIS6FPFIGLtPKDKBFW7aTeFW69etjffmUTXjuWQ38ebyc4083=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcC56s4Ui9b26imn5s3o7LNMLbEWouyHzeT40dGbLAuTxs5BZR0g-JELhrQSE5aGSw8RIOkJ7jeDteM0EtsCcz0wihs8WfvvazvCm4WsePyWQFRXYgVFMTV1gk7JVDfqWXss6KvZoeuy05yAJm5PnjpY6VRfIut5UGB-xSCK1atqgVJsq9i0CZYiE20P9c-S9-apEA_-VaHq4N6JVh0aIANJiA3hTT7GA=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcO1q2NdWURaILc-_2kRCBqzDz9oBFX-g_a4mwMM2Bb4TLVsclEOW7tVcXjnROSaprmhrpFTZ4kIHZHCl7Ict8o4BgjgUrQ6OOFjy3lmxzEvJb-ppBIWOyiAyBDZWHJLQ54j_Wf-oFLJN_FbsdOfHWUulF6v6jwPGv23dWZ1J9yuS3LTJCa_6q5OBdT-3IyeZr1dinL2xzciQ3Je-g6zegCp1SfQ4Gixdp3=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcOvl1MUvBftaTWi8r7laPHvtgYuw5YE9-ghEhTBWB6oFUk1a9WO9h4wk-cWI3wFtRZV-aSh48ORRwa_9vRyaUGfqKn5WRE5d6n_ytFOJhuKoxr16AKbPdz6yB7DmYWVL2Kanh4f22CIBcymNl767bYhnGQRAHG2DM33I326OeNCP93_ClZLrpEPv9q3BwAQ4tEVmVjMffXZ2Zqm2CTjAYqubaJGkePuOTK=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcRTi3XYoZqvN5qKHaFi5wKDnWoERGz9nCc7eKwOl8vb4Gcithgj5jm7K85ThrbyZUzzNxLUYyTx9_rkh7MSgHk00VfkzwMwFYXxAK7JW98QV0HdzDmVko-otyx8W7t1JSFif4z-8JixNsjQwRzKERHSxTtXiFU4sI74vLgQgVg82RiEvGDlW6t7TQ31JHBMnTGvRVuJFZL5z8Hax6v09zaWs_1r3k9WScN=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcYu1Eg7HSLPo2pcD3RkEqeciYK8kx3SF8ICVqAbTZ3JSBJUKJqH9aWeTqfWpj7AFhECAPcNcbLWF3lfDAvV4VmmHPiH-bDvWyO1DA0ojl8K3ShRWkXzrIAVdtm7F4afGvxAmh8rIZFLJMdC7iv_pUMRuv5kqjxPCsRHEQUdOZ8sUFFvotAJDoYrRWsuxBNHODgKqB2fTugEf5-gCaTEDhuHfPf72KF80A3=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkchaa4AYoiaVoVKWx_9jKyj148vg48iKxH6E_eZqun2G40xW_-RcNj2VSNVd6KFzTI8fLjG7pzrAzbIB0dX_uvrqahNDHTiLMcSuI5U6vA3A4iqeFPsQRkqxtKxIoTF4ecdP9t78XjlujL-9RBZECQmf_eqQk-9hw1sMtGCDhrgFApXJ4vekdeRs_uYCSiOltQvxBw8Qf5q4DZ-ldaMfSPGxvWWT5B2ykpYLXo=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcjQluyfwWz9UHTwgh5cA1f44tod3vD4TdwRvb3-3nYMLUqFjvvcR8qeKPoNY_PepqqkqXTzYEL9AL1l4optgi9atE91AOKBwp4VS-kE_MtnyeuaLzkf5YV87DK9b59WEfIUG3rl_DViWIJkzdnsXOfGGW234p_vkqK85VFzJGIe90NaX2oULuzhXo=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcpgvUapj96mXxxV-aZ9ORk2BDSFzQtNluHZYBkbnrKYP0d67iMGTJGt19Sj8YCPS2KQcCSBmEA4lR80pOvcw6ydRbkm7DtKjS0LVyOxSGlHLlumgQaDwmTXm8WmJRRAMvnKnsM2u_DN0qxfEZc_16Yc9jYdJOQG-peVmW5r8HclNCoov5KczYCdHaEX7cNzINjTm3xgWK4sH2ltkaDqbMp6agphs2ch7OEC1k=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkctyrApVb0e0BgBf_mzpSME7lJ3eVIfILe8_J4g5BXLNMNj_vg75XWJwT_WTs5BDXlI6wUZvbg6kpuuU7kNN9fsPs4qLWQf-XrzgTAP57iUBU29JZYzb4f-G0R6vCm23qluHaICq0tHk-v4uuQC7q4myePsaCq__AOXIyhUqJIY_lqf8L-zNoyfMPhflrEz6Mri_EeODOqgh3dU1C5jzquWJNtmz53FMNdTenY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcuMQ-0TN0dfnXse0I8J3DA4lBD6zX2Wgnu3Ywvk14j7gWEqdItEHV4pn7-G6XPh9hRmi6kVMrBBdtsVbCTuy5dW4xzWP3wuU0T6ogwyJUS5QiqTp8RaI0SnWdymEk2vRcIgfbArVsKfwVvmVc-51FueaScyoqSSFkGM3lSXdrKPzOe1aCGqkjBTqwvjDuDO6CF2NHgRerZDQMaU5jxldJ7wy0fCTaoVeHW=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkcvIcV0g2knaeVzBFinSix4D9QwZjpzJ1dXfswODspVnt-cjq0bI86BeBmW2tgb17cNzlYemU-f4xRmsWNPYl0YC-Qmkvcn-Iw7gWNs5-vEwj1N5_OkwH_KfE_dwPeTrJ5mEflAPE3EtGNQFnkUn2EbqU_D6JjvMejuVpZNG5Z8R6XKPSShPUPl6bv1nlHklPklX2Qa5NmxUD6ahwR7csc-lDCVYMq_CP_6bRw=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkd-mCvIgRSmCo-3fKmNydXPzFEVYj7wZJ6vDm5P0gUo8l1zQTTuczNdBryB_FJ3tg-CEzI9t3ZtgkLxx24m4xSwhz35tgWbBRrQ6wequU6tJj9kOOeJD54i4ZPnLe91exUXtafGxsRii9TOpNYRRVQzZ10rc66iWoFseY8IvKZRFq0SP6jOAqQWD7AyPRGb9HsUqoS_XGYa5oppdmMZ16oy5Wnu_2CD18nNkQM=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkd0lnqHy3ruZ3K1YE2hxXEUbKPQ7ZCcpI7c_3bEaJLKNeEhczgPgjvvH9JSFLsyoL7-htBBKueS_1FXCOM08mE4gctllAkJO40z72rZQRRId-aKIJFeGVEYGwjOimLUXjojRJmveD2fGCofQZZaTpNQqBSgKIX3TlFIoO8Tg9Z3DN6jSKcxFKijkCe2zTLxDTv9gvb0kyYdP0FKxSYkP6DDfuilh7flRkSAxuU=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkd83nJ77CRVkkzLiMhuIroe3RSJTRIV5fP0K7X9aQTiwkvP6Q9SMBrTUAhatbZCE7PZ8RL9ysmPhVZmfw-XfE4yVgRrlTIUcTgT0B5A3ib3b9qw5ommWWAkvp2KWlPRXL4yM8jewWR3X5mP-dw6Bpzjaa91t-QdZItBlxLXBUSrjRK7Y61uqYMnJvM=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkd8HbULBlhqXCaFMdAqU_mgfuR2Dvb6l39MtEMEdv2eKPSanIqbMgaUkevo0v7XY0ocjNwfa48Eq0Y0x7GRp-X3_6Y4k1F1JCqSlv8rU_4twpFX0tf1GfwbdH6ZvCAc6VrM711kZBog5wY6VSLpXe7rRYIzXg_PGsG3QW9uPJ2UP1ilTQKEpnF8jurCKkd0x96qc9ShVXWiwrMr15IApzKg1OjpcmyTJiia=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkd9jafY7esVlh0BP3dJtbGp5kjG7MwYKN6bzewbXFU-gL2N6Y9ONtlmnQUYuTgmsSi4qD4lvQnmeTFegUgsz9YJolgBLmXULH2ghknS6LqMQiB-m2zUfjXNo4kSNNJo4woXX-5qQO1QWX9Tg_Y_Ark1Bhe8c3jv6gZO51wePKqI2nqzauxqaPWfONS6PapEQRGy9Z4Jrz6WkREPhOezjOdqbPMx3ViTNRNWtRc=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdCL-DupdW2unTHyGTtXKU-By9FnJamGXDSMLzCwwCZGjZrfK2ZnXcCWcZ3d4cgxKEisf0dGpgPpPoX4HyCfrXTcX-s_9p-oOXEAD_zFTqQIXXFnSGNZMPA1hVMdIM5vTx4iZ4yF9bnQVHDF_ahtxI-ALGMrE38YQ6CXi4uEZpSGHL4hxBvtMe9lqQ=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdE6PYPAyGZDLkcq5o9gVKZvtonQp3R9seQunRPeKXLutYDnmHIP988q8HTrK4cYZD_EE4ZoqjuYsBd9cFNaJ04xoamDIi9xH7f1nVmt-wmhI1leJmNdGDmlLhl6wIr2MCX_sYNphQN5eFOODI5_Ey3WIDp-JJX9OP23dxO53OdkMTTrxvngux7gDRVZTBBG3OsTSsi_9-tl0EvDMJpJYTJDx_DBpWrtPrZ=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdI-mAVtSBFu21FXIxsZQydh7xNvN3mWVha8XEWg9GbN_KPpe1UPILwgibhV3nANkJ5R7h4ci9k0k55ePmBp-eEPm0F_aPIR0ZDMNOxFxNouoaAJT__zmGKST2WdMmnpy43mNjvfMGaN43C9aCMkOgqEwYtf5wscY9Eiag8IJDBAxF_4t_JnTwb=w16383
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdRIm_7HDvuZWCc8RUrWiwAEILGmBBrnmC4ziLLr1jv7T-qSuIaWxCJAJScIMJ4aTevOwa03tRiQmSxbepyc3bO0Qfj8enNe4ACu1aiE_D2Ks9ZN7zQrSfGBuRPCYyKTr12qJRj8AXKWS5B9GUoOENwpfn6ufJ-TIOxDIH9L6Hckk9qRieXh-b9ZLQ=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdWg2dtmH_Muc6k84XNB4Dohj8nHAvFSxwPTUUAAgyLBqIKj2gm-DxoKu4aplmNwPKbfm3VC5a9Adzm8vHpk14bCKutBC3hTwqbDDBgqcNABslegQ1GUkAwDDQLlHDTC1ECP1QRMsJs1fwAQDtCQEnUvGE6KSb5ZjEuGCGFVL67WN5Jk3LaYPCtf0XjUgwsHer_trEL_L3xePN-W3-KH6Wg-KjT_j1WvVb8Zhk=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdnqs1hVVhwoIB9sFEOwiWRuAfv4gCFj3mj9iKnDr57TWuUT4G7xR5ZQp5rD36sokklFEGqe4zgBm1khnq1qvyCqk41LgJQ2PBKUcM5oG2llIT07eqdmPCKCTIeeRoQfZSx2LwHGk8tj6F49q47L-71cVJhC_99e10OVR78rSPaMJ020HFDl5POkcBq5vZmr4gr4UGcM2Y3zNDbrA1IOJlq3CqT_NF2UG9eaXs=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdo9rRpaG-USArMxNLjxKSL8j1rAlB0XXyl_ixR2rGfbsFlrP9zmBGia7cVdr8RFX4ZSxJXXCCUtmZEWmeyg_Rt1guCeuD5bqxdiH2dpIv4fJmu93YLBgE7W5o06bf3ybR4bn1CRVus5jSTRNExLEOOHMEr_XJ1Kw8ykbguiQ0tNIWCehEL8fqOSDfkOWjSwsGwGetn47QUAk6jlNuuDfgh1s1KWmNkyPh5ZTY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdp6a-vK26cMtOl8aB-BixtKGwdYUDWcLgthlE-TSgBkGrUusUjNEcd8Zu7T7pKsU4NW0saym38JcCfUp2cxoPSNegZmYL58WaNWNlWD6xpnsWhl_NuyRekGWYEe8U6d8anIJQj2okhZO-QhPtl-rAnVRv_9ngmVTA7vDljOiQmzBnHhDAPBUOThkntozsTGd-EPbyCtFS76GMf0Mm2ieR3V6dcb3eOp-Wg=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdutnSvRl1VwWbx0YDv-zrrKyrqaKl5OvKPSHrPHFNIgDM5NVhHgc8M1Xx8A6NWAfZP-Q2jyhQjwON7fznkCfre2y6CWdLVE6BvGiNXTJUf_DzlBtCjwbYPl640edVgtXfaD-fF9VkuBHnKlOG3H5ZKibizb9s0jOs_TWK-l8TrbXlb9h4ypX-U-6Q=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdwJJ1IPiVE2-JOK2QvTsPuJqcbGwaruh_DzqV6sZPslQycfjCxwfPsAFJhWCy1DBl-WPzR5v4cxFmK05oTf3Sc9KmaGOwK6ASpHKCMpP1xHylpjhWTBnOBhdLOrPndVhoUzUzGqLnvH4NPO_zh5H0fdaZcmx_XwsEWSYjgHZWzR6pgi3ZyD_UX0_5lsbfvDX0G-PQxjYuVQ40R1AR16Tiv1Xu7_uYJm77a=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkdxneymWlaeC78kLyaECv6RK6MKKk8rJqRaw8AGAMW20w_ITIhzJV79HpikoXF7KTAPR4IphnBAssEl5ralsk7gZN5xYyYz5yBp0GyZBfMWMCuAefAYyS4w0amNfEw_CRCa731IElCKD-GjD_AaqKWtmKMshXhIO88UZbdwPFsQbJ8t4ExV2hYMs-8=w16383
+- https://lh3.googleusercontent.com/sitesv/AAzXCke1iEB26pheUQWBpcGWNe5zK49dKOTeD7hkjeD6_YhenemN0-IcwiiHUCif1I-UKPs8FU7VsEWqbo_OwfwwKboYADivPlsfWFsE4hXj1g-h5zbO1-6CeW9V5fFeAkZdOJU2ru69hj5UqYe4SJycmzDMP8Q6a5T-jJwQkrHBmVTRXnsE4tbMRzK4G9N7BRKoRAPjOVeiyNbaHYkPEyje6srfAx8jUAZ_g4qSVxA=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCke2j0CbXWk8s_quFJDXBJezJ7G1Cbvc5-RSvrbhtfz85RMQeY717SXvh9pQ2_u7LXhRsawoNclS9LV-kdpF-b9JOWV6zEYcN42pgYFyf0SBosEnTumBf8clHqegFopA0XE6p2us9EptY9PVyhJIVvfNfk1BYB5sRz3c4tl3QqCGmTylZpUNnzDh=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCke4ZX76OLiwlOkcvJZ-hvNKcdbLNQ5ajgvbSILtfZD_TpKD2QNrEa6d_v32jE_BH22z7tw8limp49kU0lJ49snLXhtQ-A2tfrE5y8N-uOnHwinxcJAcuthy0FLHOTLZqFtkoOSiAz6HyfEbtrdF-YhkdcP6RWFKRNdtEmFe6K9NNAAKYtJeXExScNuWQLkPYUQFApqZoP9HpLQem2s1bY7Ue6KCXWo7uAv0=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCke6-IPvDYRJBiX5IBInwNdJytWyLoMKal_bQO_6ZLw4qCqE02ygt9xH_BN43XII9mIIO_uf4UTDhGd1HMZKsE_n5ckIswx0nVjUihSU8Sv07qoPwzTGuyLVtfjCN6GxTyRm6k6dqNwlPW5Of6ZePzdjENiWDaDbo2pwUkvF89Ozhzo1vyaoCQAZRKK8GqjSROQJ5cgk1XWuewMzS08-CQzQdhLxHU17DeHAZrs=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCke6ub6sN8no_lYnNmxCP2b7cTPMbxe0US4bf-e5PavV799p9v2DPkslb1bSwZnpcONmabfORxwf_4iQBj5EKLsKgOoRuo9vT37lwAylhrauV7jmHYiQatQ5T5KyEtlAvcmDnMjfhKhxCAYq5jroNZyr730yqZ1oI85O-UkDd_2xC4WCYIg1qn1RLFWY9iH0HceAB_Ly9VJXjwMiXHYyihLz4qfPyPZafleaHwc=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCke6w5cukhO_1qkWYr9KWre9Q4ttInnKUZ_PFVJqSZO7KSly05PPaY3tLH14N7rm0pBwLlfz0g6eK08H4nTaXE7S74m2w7p3PmsewHwHXxsdIntSs7RpkCqMrzZF19M8OWgI1neALAgqE9mHgKt-R_a641hur4qvooAL21k3EfF_WoEhI6kHlOvb7n8=w16383
+- https://lh3.googleusercontent.com/sitesv/AAzXCke8rTsZmoJhKaBMzMps5xLeKdycpvA68v0Jc1fFYYoxwp1hrTszP7NkV-ZRzYx3tqUkORpPVDE5Fc2bqdVF_lcxbvs9Weg1TYwEtS7ofgDISzkRgRpO6eMCP5e_Pq919yf9jZWEESoaLHiEO1z_D-aBMqtmtqxEW3itFT2uHoiKSKOSJXV0nx2BVy4=w16383
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeDnQNPMxPJXqy74FL2GTwiRLFykbQOJfu343p9gg0bvpxTYnUMA4XpiUIFBnv5UBVBiQeKtKSDaVpiyrl1Cdds2uUNB14chF2Xqa4PzuDhKrrDmJDbP1ygooUhrvc1MtpGbWO_HhTGFxJshBDhQZKyLM2Fh5pSszHSU4ti8Ir-GN5oxlI3kavRckfzQV62rfm2gKeueInM_ap-7L2hJG6pgTtv6lOzMbYGahY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeGJWua0qOk6647NePv30o1Dvl_j6Mn5-lho0w9r5ztgy29ppmenhUeaiZX-dADVXY9zHHjjxm-0GusJhDkJaVTJmXc67A0QhE_Hqee1K5VsS0CfsGWd7vWCGVo0QcyRi3SGlF47MKAACf28qaYuNrXD6ks5EMtiOVLZmiJOgcG2QojiBeXCW-TTGWd07rojFI0T8NU2ubK7ml4zhqAyqiEZXNoxBkb7Tr3q4U=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeMIn7qfn1a9pJpwbYVlHTUxrNjRFV5kiHyTRKsAUztrCGL-evKTotG0XCOLdpdih9HuPP9ermbDY_vIej8xPrh8c8pgzZNeO77CUHsPDTyaoe-hi-Yx_PZgoCOeFO2hWiwVME89lLe7uid5ZfhjEln6XXouMyM0V4I8iLp6qwZHPbKSbhFRI1FqXRJlpUCTinTiAw2oaOiy75s80MKS6X-rcX54r0AGCj-o7o=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeMdBaTRBpsKkhXFRM0wt_ebMahpH_EuvXiRIGM5_j5Gk_ZGX1EnL0et1_EyoRSwSJNcuipvVFOEyixwesb7v7I8vezt9MDUmZbNWFddDvap5WAgD66_bImWg2-rGxVy3uXTRUmogVxf6JJgVmHwwhurTZ9X5iLcpZWE5eIsPfNHLTSixI6mbgrIObb0Xu83nsZW0KxJvzMHkM3Pr-ewej2Tk9khUDzcQ8ad-o=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeO89x4lNm30Th-7UKppPMBp8utl68A88eNyhe5eGnZZBtuZMPMD5R9rkMGAYpGuc3BEtQhogkLbM6JYg2Qkw4KfwX84nVhU2bkAO6NPLhb9IMpx72xeSjlbl_7KuIV8Rk5AILr0tVlhmM1uYrSZzYCXiJosKbhIqmfzZM_N-Q9Sgk-joJSYyHoIm_t-TWHY387ytzbEXsRzmdl_SsZfHR0ZwkPoRKrV30w=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeOahAGg3yZp99_r8e0zXhjf3ndLp4RMzZeLL8FH9eVhW-YKCK7YFgyY2cYtNpblXQEZgnYAmiDPqh31w2KCJl5BQ4RR2YNXimA2XNsski_XjXOaVH_bo8PxNAsE4rNH01gL-xgAkOCsRYsk8Q99sPiNBOaSwD9T5q5tF-VXbHhsyGSRxGtogc1IZVnCxpDxlz1HF8-aH6IHuop7krrPNo7zmlx6lL7uzWSXCQ=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeRXhQpstuIR2wEhoxy0fWOvvn6TjCJsvZ1BMdiBSLED-Ew1k3yccKk8vA6xbMSwZsgowoA8rabEfldXYGE47b05X9OTvGe6cUHiSh-gTbT275liqHSwXt7K4R_ZdbWtBF2CLyYQ8Krkgo0gY-xSzuiGUgI0Op44p3teWM3t4DFxeMJvgknIkxOee5aG4kOxt4KAX3XgNZVZioFCWnBakRyavckhlEztcY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeRma9SyPrdNQ8qkKseVvF72nlgMhFwzrJP3YFU-971y1ULI2tNsOgicLeKB-pU3fNcNeU-pAu0PlmmTbyZA0Taq0deQU9eGcpANNDk-j9fyK2duj-cGGI8x22rrZCl77pnsKXKGUo_RAmJzjGkmFGbkKqu0eNcDupprTAh7rIukieuTHNS6EBcvbIkVh6HTTNTr6N57h4aPi3UWNsTjinlFY7dhLU5SC3Ge8Q=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkehvRyqN1aaOrzL7T8BmxWlF-spXBln7sDYdj3Uvtur7CPQmBnoRzNM8utYw4pjpf0LqRPCtsmWI_PJn6FXlcgBRnN55RPLQUi4d9EhO2towitn9heRujHl_lOhtHqDJLNjsEBM8Un6N0vZD7GJPmYsuhcyahn8TbvkB3-VlaoEYDOXkX-icgaBnvk4VUbAKJRlM6XL-pfCSp2eBoU76tqh8nqyPykwVs66514=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkei88I3ciiwOnEwmmVx_BAuT_OAxFEwWQzldFyaOz_uc2a6AZanmxhlE1MuTpG6fewBXMxtn9y40jH6pccQPIlAVA1lh5ELnlL0v2c6y6oK4eC2943yA688rDd1AATN0SeklTuXbBZGFCvGD0_XN2BAGVjpaKGIQvFeu42Vo0afJ67c79dd8Cj61kn4huInJmKFv_N35OapPPwdSqNFGb7q6wCSq89d64bt=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeqmf5Vs95XP3ateaH1G4RTCEdxh49cSR3ktCY_Yjk5KbKCTlUOd2nvCLQiwgfR6xgtuPlK0n6FYpGxwLwbuD39MPA_MZm3VPGgbRgNuzeOWdsP0OtA5R9bB-zSwvrkLkYHAJ7aXtNX4yl9IKzqIHPSexeOJjSoIrL-y4COZyLs3GUYZiqpldl0KOUtordtyibFTnTravZj9wk4-d8cXyWK1r6RhWuStNYmsrM=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeuEkcnYK9mol0LjbtN0WA-fjvYoT_hIBK-OSvIOsS4pWXbyeYqyA220MLhSlJ65-2PdFSCC1JSRPoFESzZ9-VCsCU4TDW3am7Mywz0fX_R39QJ-NLoIjLb9t59bGMZiv2C2VC09vz-D9VmqXsEuxm86LEV9Fbe-FqSK4lmByXSUpMNmkgUm3_3O82wpfFvNFvWmF-SyA799vEQE0xFX2vSdnsx8WRJTRVWf2M=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkeuNwT3F7h6AbuP8vsCpC9ift48K6PEuyjUUc7ltNm5XJduIJcDF2XJtFHm2mx7H0D3wm9VL9aZZ98UdJntbIkHr4NljM-3EgO869zwoWVsdtk-4i9OBylNyEkeJQmTAqPtLEGdxQrQmI5WR6445LlvtMo06AzOluXNDx6MCFzIjA6dB-4xBZs0z9w=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkf-jwjJQ9lkKx0AeR4ugl7ChNyNJUfjVcD_xibHs5-x_WR12NIK4DhceN6B4955nbJ8vFjVTzErAUUDbM_TdxerjGveSmSMkR2jJPs_8twFjYub7uH-otGwWQ7wS5D1Hyqm8H1lgr28C2MMCC0d7Y93ih7Y2ULGql6HDuoqQFEPSwU60enthz-GduOP9lB48foz_MYb4LfZ4Wz2HvTPr4bcA-vAJ_HofntV3rk=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkf-wr0HUUPtlgcCEucTciNllMzJYPDpWVUSx7IVJmHPIiI0wr0FT43qGzj38FOT3FPBanSDlwuIwvDdQnnPG_JzPL6A4yA38i8aqdUGCZED2M8AsBbKA0wkZqE1PmDnCi1TnYkLwh129E0_FqoAf-0SXLr8JVr61CTwbfv44RFTsC7p2s6asHOnUf85IuVJchfnVR9Bu4B3hdraHn0Wr581jnZr6aNdB2RkdBY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkf2m4Xq449Yrx0XUWXvAqzqKD1iPcnj58jYTvQbuGWVLmK7ilPiPS7Jfp4cSxXFjra_zFSTIVah48Dhtvfo_CHNOFwEbdDdZO0lOPSclIKqfuod_kVOzXrrDCb0xBnhO9fsRha59xuh6aInz9fYiDqFpFam24hgEJ7klCMqoe8inPs_106HFFqnBg_Dp3otpS3M1mjDS2nF1fO7K4lo-mSGx_CwLh0euTlOeQM=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkf5gegOdzYkrnI9tElH5DLd0GlyMY6IBElmpLcWtyJc8jcSD0AjRZVjhWMMbUmIUneIk9AnTrtit7Ip-TxJNjqQT4goBExkMD5O4zU9wzB1Ihk76LhGf-FDKuRAFdOfKLyyyG488dMj-FP7v41oJML5cm-LqcJEcT4wwHARpi5tGSl2HZMHYW410ZaKNz4OPOoECM9IH0aqpn-Rd58MUid_Yzw9mxtrQkiug8g=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfGFtaYnPsWHCBOlm3Pz_vpq0Gb6VoF2U9BWSgnqaA4dvdsylFWcrZwOFEwSF5hyRieggtAMqnAd3cG3taHnXmRixx0wxW8Wydi_yXzrIAamZCC6-YzXdZIgrwu_8OOn6L3r8BpnU4DlHmIwnCf2zctGMio2YRZ49_k7-34vYiwHWIKzZVTGCHtFftxpMcKWzZeTb_SOfrm3YlcfMKWSsXdwytzntvid8M7RUM=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfHb_4H-dJSoBHUyFn_rORxll7fwu5VEDgQ4Og7P6A1pmpY7WIuQO3lsMFeR1YBWqUh67SsQccP6rjfxNfIRSgDnGUJvXiQpqcZYyTAGv68M8i4CDVtowV6IJ_UMhAbi3Ur3p-y0wUCWjgeFziN-3UMODzPbLRiMervBbTScdlGSfxBw1A4tTnF7_vRxcGl8aSmLDguFKf1lJx63nvt69QMklbp9hfgtlX9LXA=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfHpnBbx0zPrzD95nSedRiEGG3UNML345bBoN4ypTJVg5yXwSlN7gOQz_WhPWAkFCj1Hu7-wSQR21mAvggu-a5NdDpe341hzyLDJG7AO42PY4dBdmR54cDe8AKwg_Y6_Lbi1GemC7-e-70JAe8xODiDk7vgkJAFI5rraLfSV0zm43MeDzPtR_HEn88Yctbd81gK6TTnegZr-or2WbKgsV_cjph1vpIw2Vnm=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfLUCx9Maz4yxGxvHTG4mo1Thj9bVX_kfMc_jajjqs8CxCob0m0866pDZK46aaC3NIg8bSQPOQbSys3CE0Fke7-bS_XeLdr1ZQse-XuMdD7bq-Gz03_F7Ha0NCgozeyzqJc-WhH0XvJs4ZlqFCI6bivhQX_SYWsuepExOZnosrtukNAr8tPfZJYUBicl3JFdIe5mez3HES3_JBTmB_zSfkSGsTjnzZEgwsoxU8=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfXUdDvn1exNFz8K7TxI8IIAwmF9zpJiGkc67K7OOtSp7-ggzYVEt5AwwkA36X_JR3t_KZC41JcI5HEAqc0YQGbUQE6bY8aqJXNfqBLfe40Yo7FU-X1PWCejs3XyIkOBrtkGDIU8DzTxEDI_8dJ0YtdbUJV9TT8jIvUjE1Niy2Gd6d3kSjsA-uL9ul1gBviBGtDUafHW886PSaiD7kewW2Lw_4l5dIQChvQ=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkffLN9H-5FsK980DBtHaDwl1grJfppZuJrJZqRryNb4J12ed4VdLOGBR7GcaMgKPJCyZi2BuVh9d1RonBTx2aZAkVJhm6BeTO2n7ci44L5wTFHEfqBrlFEcb2ixYBJxAysEVky06G5nr3z91yFhxL5AJQEIiiCdVHXIr-43B8OLX3kPQXdDXhvKXOWovuxFrkcet1ody1QnSEjKMtpCmy7BZETmsqM9yyPOdVY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfkOPO78yRf4i2mZzG5IEHUyUQDK_fkmpLztvMd22qPFtJUhUOHXNmrCc6gRO7BsA_g-CNuLV2DJ_1epJ_eB2aqFeSlJVRB17pkClfSqWvAlXAhj56aLtT77HH8jPYb8XSk3afd6TARrCd6qTW4r5AFyk26R36-_Z3TfoYmGo75rwOh-OcI7Zw1VpfIvuzsSIXE2s-HSqYHQRYiS4arPjtzlyXxSC4tR7n-e3g=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkflSkU2HmWNre7qUSCc2iWACG8yKmK1x0CyOU5X503_irl25zJPsnRVh83r_Sw9KOTkEyfxiS4xy1xfsPhb2Bbc68ahcd_VkIJBJcnZsc0I2AyWh7CDeG04GbBrxBSzhXW2gNpYFhFVPl32mo4O-3WnOu68GvWSjNsbbhQ01KCaKsZF9mSrp3suuLs=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkflUfkrQQEFB0JwSW7w5Dr0JyUvc0QvcWwknHJLnRSLRCMEKZ98ZlVMTeo4lZfN30eDH4TzusIxoVj4Bdp1pk4NL0YmoyGyXrTOaBAh2gRzRAQopPu-u2Pi_kBYuWb15wG8Yo3OdXG3h4LXahTZxvttQYHCDjjatu-aMYNiMUk9J8lyMXQlscVhstR1XnRyJI8eAwoam3C0qEiZBCl5b9jg5k22dDmzPJxIfG8=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfqbzIqkI79-HcJvIExdgfBD_Z9NxDvOlPduqHFKQVDvUt5zLzwud-T6Li6a4Nx9B0jx0eoSaTne-i6WAoStKxPPuuKsxYZ2EIGkfa4YZ0HRNr4p6dHP-otDT-MmeA_nXHQ2fO1x-M-l-npJH6jI1Pico324gnYujrgiS2XC1pxF5WVhzqedm6qNAS95GgX4VDnukA4jVK2KGHTnL2gFLNUqosjoweSAGCp4JY=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfseJt6uzJFblnMAy_NXQJXprGn84yYqbFwaZJsv50_YIcIKXDiblzA9Ah5fMxdCcpCqa8c45ILRBrwb-y6K7igjfNGA2CtjLUCut5Y33OYArwkjd9dS7EOuZ7XmC1ZRtMBSY15Z2tzQPdMFVY-OXauj2krzSsJ6CVGG33prSC1zWoAFQfzF8p0yMk=w1280
+- https://lh3.googleusercontent.com/sitesv/AAzXCkfx5Vp6drWQ4_H1Zhyv2L7pAC5kRtcHUqVZVnt1QEo2gjzH3gyy418D7S0B_iQw_-kW5qJizC-RYuvMCkCNeW2_CSCmNB4XSluYyQ3a4xknY5gtane-WSQPQv9cAMOm9_5cmIyNQ5yHtVN1cJNJCfT2pVzKdtAexQSHxirUT-KOluFbPxUdFXs6hDvJgJLldYBsbfurfjRwf_8a1FU-Sq9tcwzdBj-AzGjSmJA=w1280
+- https://my.anl.gov/
+- https://my.anl.gov/app/aware
+- https://my.anl.gov/app/coral
+- https://my.anl.gov/app/panda
+- https://my.anl.gov/app/tms
+- https://pme.uchicago.edu/
+- https://scholar.google.com/citations?user=Hh-0xzsAAAAJ&hl=en
+- https://scitechdaily.com/unlocking-the-future-of-microelectronics-with-argonnes-redox-gating-breakthrough/
+- https://www.aiche.org/resources/publications/cep/2024/may/cep-news-update/redox-gating-enables-low-power-microelectronics
+- https://www.anl.gov/aet/materials-engineering-research-facility
+- https://www.anl.gov/article/ability-to-track-nanoscale-flow-in-soft-matter-could-prove-pivotal-discovery
+- https://www.anl.gov/article/scientists-develop-new-artificial-intelligence-method-to-create-material-fingerprints
+- https://www.anl.gov/article/scientists-use-novel-technique-to-create-new-energyefficient-microelectronic-device
+- https://www.anl.gov/cme
+- https://www.anl.gov/cnm/article/leveraging-ai-for-improved-xray-photon-correlation-spectroscopy
+- https://www.anl.gov/manufacturing/research-facilities
+- https://www.anl.gov/msd/article/new-xpcs-method-to-explore-nonequilibrium-dynamics-in-soft-materials
+- https://www.anl.gov/msd/article/redox-gating-unlocking-energyefficient-electronics-through-colossal-carrier-modulation-and-phase
+- https://www.anl.gov/msd/nonequilibrium-soft-and-active-matter
+- https://www.anl.gov/msd/static-and-dynamic-order-in-soft-matter
+- https://www.aps.anl.gov/
+- https://www.aps.anl.gov/Feature-Beamlines/Coherent-High-Energy-X-ray
+- https://www.aps.anl.gov/Feature-Beamlines/Coherent-Surface-Scattering-Imaging
+- https://www.aps.anl.gov/Feature-Beamlines/X-ray-Photon-Correlation-Spectroscopy
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F138a2bb5a1284f899fb5b5936e77280217345044912668957969%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1wGG_TkUfBiCiljeUt-flO
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F2661ab433a9e421eadd69f728424987613581448226954609271%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw09oYptvdztimaduyUlqvmv
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F5601aa5c14b94a1fbe103ed1362bc42c8034676125884234213%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw3fyenTOJyjWIjVexIZcKe8
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F5b536e876cbd430f8df1548d0f9ff7f2833550427251464133%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1AmiKO9PB8XNWo7Nf6dxBc
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F6bfbdade1197421d9a7a6b2230593d8115501364512628235786%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1pD-l4aT0LvIkdExrnbL6E
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F7162f353c2fc4c6d863471a2b04254e4877612082441211702%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1KAQ2IJi67FxArqGWJfNGg
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F717faf76917d4180b02572a58173aed65829101347948467119%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw0YqN0dRCqFqp_dRuFBlqCI
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F75bcbbe767a246358213240489d645e915279681775222615167%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1ZjKLD9KANdP5KrunYXe0n
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F7aa000bad58445208d2278503809865b15703729788530621737%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw2d-5vPtOgV0CnxdXaB8ZH2
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F99f5afe8b6f5498295404357df11174a6557077237045973744%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw2CzngASSo1QEEEL1OM-Hx3
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2F9d71bfb2e182408a89abfdc9f870870d2098989434765511230%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1GnhmNZNTN2czBxMHbgoDf
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Fa97dbabe9bb74a6b8178cdea9d230ac96342221491678799566%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw2W58jqEPDGa5vpk1GIDSmE
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Fc58acce94226471e887e1b0cda44b75410676641205688523198%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1_uuCKVQWabQm-A2-P13yV
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Fc8c41c1c38a84e33a690895bc99831d3381632281457059575%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw1Tqgry7Iq-1NDJN3ahw_U4
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Fecc7b1ccf35349a09ee517ad7c08c20411288591692382008956%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw3WjPQ6oZc9F-NbfUxxHshp
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Ffc74768961094eb382d3d23c469868e315696481697110505503%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw0mt-lskZYOv7Sew0BiiwaL
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Ffd1ed29c7fe14324b3de99b7edccb6e03904891943394317997%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw0rMYiSGVu8VHiqX8hOnJtl
+- https://www.google.com/url?q=https%3A%2F%2Foutlook.office365.com%2Fowa%2Fcalendar%2F495f0cfc3d0548cd948482fada403030%40anl.gov%2Ffe54a5f3704c43e489a1198ae629499d16179446821197269081%2Fcalendar.html&sa=D&sntz=1&usg=AOvVaw0VbGZTl4MU-88M2KRypux4
+- https://www.lcrc.anl.gov/
+- https://www.lcrc.anl.gov/systems/bebop
+- https://www.lcrc.anl.gov/systems/improv
