@@ -3,7 +3,7 @@ title: "Our Team"
 permalink: /our-team/
 source_url: https://sites.google.com/view/msdsoftmatter/our-team
 last_imported: 2025-11-13T04:28:12Z
-hero_image: /assets/img/imported/our-team/AAzXCkfT2Sxyo0HSmMefO14TqB_vaDWHPfcK5dS3qI9NvrmZ9q0bxKEW82KtSxUkef0et5MxX2LffJG-MTTm6k5VXUNVhYEemE4fuO0RX2QX8YEHMyuANmO_Ko38ocXAnj5BGF50_6zwEA2MxwYyS86vkbfyz4cQmfaERNFmju7eyb1JFGmFe1a8HVFYgUE=w16383
+hero_image: /assets/img/general/hero-banner.png
 hero_title: "Our Team"
 hero_subtitle: "Meet the members of the MSD Soft Matter Lab"
 ---
@@ -13,7 +13,7 @@ hero_subtitle: "Meet the members of the MSD Soft Matter Lab"
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0;">
 
 <div style="flex: 1; min-width: 200px; max-width: 300px;">
-<img src="/assets/img/imported/our-team/jinwoo-park.jpg" alt="Jinwoo Park" style="width: 100%; border-radius: 8px;">
+<img src="/assets/img/team/jinwoo-park.jpg" alt="Jinwoo Park" style="width: 100%; border-radius: 8px;">
 
 ### Jinwoo Park
 **Postdoctoral Fellow**
@@ -21,7 +21,7 @@ hero_subtitle: "Meet the members of the MSD Soft Matter Lab"
 </div>
 
 <div style="flex: 1; min-width: 200px; max-width: 300px;">
-<img src="/assets/img/imported/our-team/nathan-maslowski.jpg" alt="Nathan Maslowski" style="width: 100%; border-radius: 8px;">
+<img src="/assets/img/team/nathan-maslowski.jpg" alt="Nathan Maslowski" style="width: 100%; border-radius: 8px;">
 
 ### Nathan Maslowski
 **PhD Candidate**
@@ -30,7 +30,7 @@ UChicago GRC Program
 </div>
 
 <div style="flex: 1; min-width: 200px; max-width: 300px;">
-<img src="/assets/img/imported/our-team/heyi-liang.jpg" alt="Heyi Liang" style="width: 100%; border-radius: 8px;">
+<img src="/assets/img/team/heyi-liang.jpg" alt="Heyi Liang" style="width: 100%; border-radius: 8px;">
 
 ### Heyi Liang
 **Resident Associate**
@@ -39,7 +39,7 @@ de Pablo Group @ [New York University](https://www.nyu.edu/)
 </div>
 
 <div style="flex: 1; min-width: 200px; max-width: 300px;">
-<img src="/assets/img/imported/our-team/louie-edano.jpg" alt="Louie Edano" style="width: 100%; border-radius: 8px;">
+<img src="/assets/img/team/louie-edano.jpg" alt="Louie Edano" style="width: 100%; border-radius: 8px;">
 
 ### Louie Edano
 **Graduate Research Aide**
@@ -48,7 +48,7 @@ The University of Illinois Chicago
 </div>
 
 <div style="flex: 1; min-width: 200px; max-width: 300px;">
-<img src="/assets/img/imported/our-team/roushan-singh.jpg" alt="Roushan Singh" style="width: 100%; border-radius: 8px;">
+<img src="/assets/img/team/roushan-singh.jpg" alt="Roushan Singh" style="width: 100%; border-radius: 8px;">
 
 ### Roushan Singh
 **Visiting Graduate Student**

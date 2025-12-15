@@ -3,7 +3,7 @@ title: "MSD Soft Matter Lab"
 permalink: /
 source_url: https://sites.google.com/view/msdsoftmatter/home
 last_imported: 2025-11-13T04:28:07Z
-hero_image: /assets/img/imported/home/AAzXCkfT2Sxyo0HSmMefO14TqB_vaDWHPfcK5dS3qI9NvrmZ9q0bxKEW82KtSxUkef0et5MxX2LffJG-MTTm6k5VXUNVhYEemE4fuO0RX2QX8YEHMyuANmO_Ko38ocXAnj5BGF50_6zwEA2MxwYyS86vkbfyz4cQmfaERNFmju7eyb1JFGmFe1a8HVFYgUE=w16383
+hero_image: /assets/img/general/hero-banner.png
 hero_kicker: "Chen Team"
 hero_title: "MSD Soft Matter Lab"
 hero_subtitle: "Creating sustainable materials through advanced synthesis and in situ X-ray characterization"
