@@ -15,6 +15,8 @@ Our lab maintains an extensive collection of advanced equipment for materials sy
 
 ### High-Vacuum Schlenk Apparatus
 
+![High-Vacuum Schlenk Apparatus](/assets/img/facilities/schlenk-apparatus.jpg)
+
 Precision synthesis and anionic polymerization capabilities.
 
 **Resources:**
@@ -23,6 +25,8 @@ Precision synthesis and anionic polymerization capabilities.
 ---
 
 ### Series 4530 Floor Stand Reactors (Parr Instrument)
+
+![Series 4530 Floor Stand Reactors (Parr Instrument)](/assets/img/facilities/equipment-01.jpg)
 
 High-pressure and temperature-controlled reactions.
 
@@ -34,6 +38,8 @@ High-pressure and temperature-controlled reactions.
 
 ### Solvent Purification System (Mbraun SPS-800)
 
+![Solvent Purification System (Mbraun SPS-800)](/assets/img/facilities/solvent-purification.jpg)
+
 Ultra-pure solvent preparation for moisture- and oxygen-sensitive synthesis.
 
 **Resources:**
@@ -43,6 +49,8 @@ Ultra-pure solvent preparation for moisture- and oxygen-sensitive synthesis.
 ---
 
 ### Glovebox Workstations & Acryl-Glovebox (Mbraun)
+
+![Glovebox Workstations & Acryl-Glovebox (Mbraun)](/assets/img/facilities/equipment-02.jpg)
 
 Inert atmosphere workstations for air-sensitive materials handling.
 
@@ -54,6 +62,8 @@ Inert atmosphere workstations for air-sensitive materials handling.
 
 ### Spin Coater (Laurell)
 
+![Spin Coater (Laurell)](/assets/img/facilities/spin-coater.jpg)
+
 Thin-film coating for uniform sample preparation.
 
 **Resources:**
@@ -62,6 +72,8 @@ Thin-film coating for uniform sample preparation.
 ---
 
 ### Motorized Automatic Film Applicator (Elcometer 4340)
+
+![Motorized Automatic Film Applicator (Elcometer 4340)](/assets/img/facilities/film-applicator.jpg)
 
 Automated coating for reproducible film thickness.
 
@@ -72,6 +84,8 @@ Automated coating for reproducible film thickness.
 
 ### Xtreme Blender (Waring MX1100XTS)
 
+![Xtreme Blender (Waring MX1100XTS)](/assets/img/facilities/equipment-03.jpg)
+
 High-power blending for composite preparation.
 
 **Resources:**
@@ -81,6 +95,8 @@ High-power blending for composite preparation.
 
 ### 5qt Benchtop Heavy-Duty Laboratory Mixer (Gilson)
 
+![5qt Benchtop Heavy-Duty Laboratory Mixer (Gilson)](/assets/img/facilities/equipment-04.jpg)
+
 Large-scale mixing for composite materials.
 
 **Resources:**
@@ -89,6 +105,8 @@ Large-scale mixing for composite materials.
 ---
 
 ### Slot Die Coater (Ossila)
+
+![Slot Die Coater (Ossila)](/assets/img/facilities/equipment-05.jpg)
 
 Continuous film coating for large-area samples.
 
@@ -101,6 +119,8 @@ Continuous film coating for large-area samples.
 
 ### HAAKE MiniCTW Micro-Conical Twin Screw Compounder
 
+![HAAKE MiniCTW Micro-Conical Twin Screw Compounder](/assets/img/facilities/equipment-06.jpg)
+
 High-shear mixing and compounding for nanocomposites.
 
 **Resources:**
@@ -112,6 +132,8 @@ High-shear mixing and compounding for nanocomposites.
 
 ### KSV NIMA LB Trough (Biolin Scientific)
 
+![KSV NIMA LB Trough (Biolin Scientific)](/assets/img/facilities/equipment-07.png)
+
 Langmuir-Blodgett film deposition for monolayer assembly.
 
 **Resources:**
@@ -120,6 +142,8 @@ Langmuir-Blodgett film deposition for monolayer assembly.
 ---
 
 ### Benchtop Arc Lamp (Thorlabs)
+
+![Benchtop Arc Lamp (Thorlabs)](/assets/img/facilities/equipment-08.jpg)
 
 UV/Vis photopolymerization and photochemistry.
 
@@ -130,6 +154,8 @@ UV/Vis photopolymerization and photochemistry.
 
 ### DREMEL DigiLab 3D45 3D Printer
 
+![DREMEL DigiLab 3D45 3D Printer](/assets/img/facilities/equipment-09.jpg)
+
 Additive manufacturing for device prototyping.
 
 **Resources:**
@@ -139,6 +165,8 @@ Additive manufacturing for device prototyping.
 ---
 
 ### Rotary Evaporator (Buchi R-215 w/ V-850)
+
+![Rotary Evaporator (Buchi R-215 w/ V-850)](/assets/img/facilities/equipment-10.jpg)
 
 Solvent removal and concentration.
 
@@ -151,6 +179,8 @@ Solvent removal and concentration.
 
 ### Sorvall ST8R Microcentrifuge (Thermo Scientific)
 
+![Sorvall ST8R Microcentrifuge (Thermo Scientific)](/assets/img/facilities/equipment-11.jpg)
+
 High-speed microcentrifugation for sample separation.
 
 **Resources:**
@@ -160,6 +190,8 @@ High-speed microcentrifugation for sample separation.
 ---
 
 ### Frontier 5000 Multi-Pro FC5816 Centrifuge (OHAUS)
+
+![Frontier 5000 Multi-Pro FC5816 Centrifuge (OHAUS)](/assets/img/facilities/equipment-12.png)
 
 Benchtop centrifugation for bulk samples.
 
@@ -171,6 +203,8 @@ Benchtop centrifugation for bulk samples.
 
 ### Vacuum Ovens (VWR)
 
+![Vacuum Ovens (VWR)](/assets/img/facilities/equipment-13.jpg)
+
 Drying and thermal treatment under vacuum.
 
 **Resources:**
@@ -180,6 +214,8 @@ Drying and thermal treatment under vacuum.
 ---
 
 ### Model 4386 Bench Top Heated Press (Carver)
+
+![Model 4386 Bench Top Heated Press (Carver)](/assets/img/facilities/equipment-14.jpg)
 
 Hot-pressing for film and composite fabrication.
 
@@ -191,6 +227,8 @@ Hot-pressing for film and composite fabrication.
 
 ### Plasma Cleaner (Harrick Plasma)
 
+![Plasma Cleaner (Harrick Plasma)](/assets/img/facilities/equipment-15.jpg)
+
 Surface cleaning and activation.
 
 **Resources:**
@@ -200,6 +238,8 @@ Surface cleaning and activation.
 ---
 
 ### Benchtop Freeze Dry System (Labconco)
+
+![Benchtop Freeze Dry System (Labconco)](/assets/img/facilities/equipment-16.jpg)
 
 Lyophilization for water-sensitive materials.
 
@@ -214,6 +254,8 @@ Lyophilization for water-sensitive materials.
 
 ### Differential Scanning Calorimeter (TA Q2000)
 
+![Differential Scanning Calorimeter (TA Q2000)](/assets/img/facilities/equipment-17.jpg)
+
 Thermal transitions, crystallization, and glass transition measurements.
 
 **Resources:**
@@ -223,6 +265,8 @@ Thermal transitions, crystallization, and glass transition measurements.
 ---
 
 ### Dynamic Mechanical Analysis (TA Q800)
+
+![Dynamic Mechanical Analysis (TA Q800)](/assets/img/facilities/equipment-18.jpg)
 
 Viscoelastic properties and dynamic mechanical testing.
 
@@ -253,6 +297,8 @@ High-temperature TGA with controlled atmosphere.
 ## Rheology and Mechanical Testing
 
 ### Rheometer (TA DHR-2)
+
+![Rheometer (TA DHR-2)](/assets/img/facilities/equipment-19.jpg)
 
 Rheological characterization of soft materials.
 
@@ -294,6 +340,8 @@ Capillary breakup extensional rheometry.
 
 ### eXpert 2600 Series Universal Testing Systems (ADMET)
 
+![eXpert 2600 Series Universal Testing Systems (ADMET)](/assets/img/facilities/equipment-20.jpg)
+
 Tensile, compression, and flexural testing.
 
 **Resources:**
@@ -312,6 +360,8 @@ Mechanical property testing with environmental control.
 
 ### DSA25E Drop Shape Analyzer (KRÜSS scientific)
 
+![DSA25E Drop Shape Analyzer (KRÜSS scientific)](/assets/img/facilities/equipment-21.jpg)
+
 Contact angle and surface energy measurements.
 
 **Resources:**
@@ -321,6 +371,8 @@ Contact angle and surface energy measurements.
 ---
 
 ### SurPASS 3 Electrokinetic Analyzer (Anton Paar)
+
+![SurPASS 3 Electrokinetic Analyzer (Anton Paar)](/assets/img/facilities/equipment-22.jpg)
 
 Zeta potential and streaming potential analysis.
 
@@ -338,6 +390,8 @@ Advanced wettability measurements.
 
 ### Surface Forces Apparatus (SurForceLLC SFA 2000)
 
+![Surface Forces Apparatus (SurForceLLC SFA 2000)](/assets/img/facilities/equipment-32.jpg)
+
 Direct surface force measurements.
 
 **Resources:**
@@ -346,6 +400,8 @@ Direct surface force measurements.
 ---
 
 ### QSense Analyzer QCM-D (Biolin Scientific)
+
+![QSense Analyzer QCM-D (Biolin Scientific)](/assets/img/facilities/equipment-26.jpg)
 
 Quartz crystal microbalance with dissipation monitoring.
 
@@ -358,6 +414,8 @@ Quartz crystal microbalance with dissipation monitoring.
 
 ### QSense Explorer High-Pressure Temperature QCM-D (Biolin Scientific)
 
+![QSense Explorer High-Pressure Temperature QCM-D (Biolin Scientific)](/assets/img/facilities/equipment-27.jpg)
+
 QCM-D with environmental control.
 
 **Resources:**
@@ -368,6 +426,8 @@ QCM-D with environmental control.
 ---
 
 ### Cypher ES Environmental AFM (Oxford Instruments)
+
+![Cypher ES Environmental AFM (Oxford Instruments)](/assets/img/facilities/equipment-28.jpg)
 
 Atomic force microscopy with environmental control.
 
@@ -381,6 +441,8 @@ Atomic force microscopy with environmental control.
 
 ### iCAP PRO X Duo ICP-OES (Thermo Scientific)
 
+![iCAP PRO X Duo ICP-OES (Thermo Scientific)](/assets/img/facilities/equipment-23.jpg)
+
 Elemental composition analysis.
 
 **Resources:**
@@ -391,6 +453,8 @@ Elemental composition analysis.
 
 ### Total Organic Carbon Analyzer (Shimadzu TOC-LCPH)
 
+![Total Organic Carbon Analyzer (Shimadzu TOC-LCPH)](/assets/img/facilities/equipment-24.jpg)
+
 Total organic carbon quantification.
 
 **Resources:**
@@ -400,6 +464,8 @@ Total organic carbon quantification.
 ---
 
 ### MicroCal PEAQ-ITC Isothermal Titration Calorimeter (Malvern)
+
+![MicroCal PEAQ-ITC Isothermal Titration Calorimeter (Malvern)](/assets/img/facilities/equipment-25.jpg)
 
 Binding thermodynamics and interaction studies.
 
@@ -436,17 +502,23 @@ Volatile compound identification and quantification.
 
 ### Ocean-HDX Visible to UV-VIS Spectrometer (Ocean Optics)
 
+![Ocean-HDX Visible to UV-VIS Spectrometer (Ocean Optics)](/assets/img/facilities/equipment-33.png)
+
 Compact UV-Vis spectroscopy.
 
 ---
 
 ### Ellipsometer (J.A. Woollam ALPHA-SE)
 
+![Ellipsometer (J.A. Woollam ALPHA-SE)](/assets/img/facilities/equipment-34.jpg)
+
 Thin film thickness and optical properties.
 
 ---
 
 ### SEC-MALS (Waters-Wyatt)
+
+![SEC-MALS (Waters-Wyatt)](/assets/img/facilities/equipment-35.jpg)
 
 Size exclusion chromatography with multi-angle light scattering.
 
@@ -458,6 +530,8 @@ Size exclusion chromatography with multi-angle light scattering.
 
 ### Portable Density Meter (Anton Paar DMA 35)
 
+![Portable Density Meter (Anton Paar DMA 35)](/assets/img/facilities/equipment-36.jpg)
+
 Rapid density measurements.
 
 **Resources:**
@@ -466,6 +540,8 @@ Rapid density measurements.
 ---
 
 ### Particle Charge Analyzer with Auto-Endpoint Titrator (Micrometrix)
+
+![Particle Charge Analyzer with Auto-Endpoint Titrator (Micrometrix)](/assets/img/facilities/equipment-37.png)
 
 Surface charge characterization.
 
@@ -522,6 +598,8 @@ BET surface area and pore size distribution.
 
 ### TCi Thermal Conductivity Analyzer (C-Therm)
 
+![TCi Thermal Conductivity Analyzer (C-Therm)](/assets/img/facilities/equipment-31.jpg)
+
 Thermal transport properties.
 
 **Resources:**
@@ -530,6 +608,8 @@ Thermal transport properties.
 ---
 
 ### Dead End Filtration System (Millipore)
+
+![Dead End Filtration System (Millipore)](/assets/img/facilities/equipment-29.jpg)
 
 Membrane filtration testing.
 
@@ -540,6 +620,8 @@ Membrane filtration testing.
 
 ### Benchtop Cross/Tangential Flow Filtration System (Sterlitech)
 
+![Benchtop Cross/Tangential Flow Filtration System (Sterlitech)](/assets/img/facilities/equipment-30.jpg)
+
 Cross-flow membrane filtration.
 
 **Resources:**
@@ -549,6 +631,8 @@ Cross-flow membrane filtration.
 
 ### Gas Permeability Tester (Qualitest QT-GPT-500)
 
+![Gas Permeability Tester (Qualitest QT-GPT-500)](/assets/img/facilities/equipment-38.png)
+
 Gas barrier property measurements.
 
 **Resources:**
@@ -557,6 +641,8 @@ Gas barrier property measurements.
 ---
 
 ### Process Gas Analyzer (Siemens Ultramat 23)
+
+![Process Gas Analyzer (Siemens Ultramat 23)](/assets/img/facilities/equipment-39.jpg)
 
 Real-time gas composition monitoring.
 
