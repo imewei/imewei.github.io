@@ -36,6 +36,12 @@ exclude:
   - scripts/*.pyc
   - scripts/__pycache__
   - README.old.md
+  - agent-os
+  - .claude
+  - .agent
+  - .specify
+  - .venv
+  - docs
 
 markdown: kramdown
 kramdown:
