@@ -1,0 +1,754 @@
+{
+  "generated": "2025-12-15T22:26:19.182794+00:00",
+  "description": "Image manifest for MSD Soft Matter Lab website migration",
+  "categories": {
+    "team": "Profile photos of lab members",
+    "research": "Research area diagrams and figures",
+    "facilities": "Lab equipment and facility images",
+    "general": "Hero images, logos, and miscellaneous"
+  },
+  "images": [
+    {
+      "original_path": "imported/our-team/AAzXCkcHl_dniWz9zOwCnMw5tJKZfCh9-IIcsGs-UnqPRnOmZiBg9FL9QvYV5TJrskSKO86VQzIOGHjewrNbY2hyWR9mmDke2u0XzpOu76uEICsCiuD-sy6_Lkyd5qO7Feb75fjY0r77VPSkPTnlaHnK8OWU3zJChCXhnQlV8ShzMM-SE7rVvxDbDPkJXPegg7rD9kpg6r_yAOWffU7qxLZs1NvHsl8Z2usZ5_S_=w1280",
+      "new_path": "team/team-member-01.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "AAzXCkcHl_dniWz9zOwCnMw5tJKZfCh9-IIcsGs-UnqPRnOmZiBg9FL9QvYV5TJrskSKO86VQzIOGHjewrNbY2hyWR9mmDke2u0XzpOu76uEICsCiuD-sy6_Lkyd5qO7Feb75fjY0r77VPSkPTnlaHnK8OWU3zJChCXhnQlV8ShzMM-SE7rVvxDbDPkJXPegg7rD9kpg6r_yAOWffU7qxLZs1NvHsl8Z2usZ5_S_=w1280",
+      "new_filename": "team-member-01.jpg",
+      "file_size": 53853
+    },
+    {
+      "original_path": "imported/our-team/AAzXCkcln0krfT7GqKgyT8vpe1Q1mVSHxMcR4ZROWiqiGA3wbV74tKJVm_bIt9kw7BjmavYQElszwN9laLQBjZJocvXfPoZaNr2D-LRtHt-tPj7TAgqlvyPbKsOoT2IEv-Nkw1ZTx7gTceZ0QZBvUz9zLVSVzM4wEpd1di7bX96GpuUr6z27n65zwpL8lDzEOIcveeb6jtsrXKgxMs-3jG235qEjvtKrbvJegKjwA7s=w1280",
+      "new_path": "team/team-member-02.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "AAzXCkcln0krfT7GqKgyT8vpe1Q1mVSHxMcR4ZROWiqiGA3wbV74tKJVm_bIt9kw7BjmavYQElszwN9laLQBjZJocvXfPoZaNr2D-LRtHt-tPj7TAgqlvyPbKsOoT2IEv-Nkw1ZTx7gTceZ0QZBvUz9zLVSVzM4wEpd1di7bX96GpuUr6z27n65zwpL8lDzEOIcveeb6jtsrXKgxMs-3jG235qEjvtKrbvJegKjwA7s=w1280",
+      "new_filename": "team-member-02.jpg",
+      "file_size": 54480
+    },
+    {
+      "original_path": "imported/our-team/AAzXCkdynzsjOhc4LIyc62lfI-ARGp2gqlKqSKEc7ljz3m7KTnd2W0oWw4T0kWRsEKpwwvMZvadyu0_sEzkQpDs4vkD3P5UJoo-4iZLQJtbqol2uzJuj2I52KwhB1LWTZLhwI6MClC8Togyp1PjkFyNMkocVuPAeAcfxn1S2_i47saznBzP4uv-wRkFMwkfIkYDJynMWijn7VfqXi9zDEvimVIqWstA6w5-dH-dx=w1280",
+      "new_path": "team/team-member-03.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "AAzXCkdynzsjOhc4LIyc62lfI-ARGp2gqlKqSKEc7ljz3m7KTnd2W0oWw4T0kWRsEKpwwvMZvadyu0_sEzkQpDs4vkD3P5UJoo-4iZLQJtbqol2uzJuj2I52KwhB1LWTZLhwI6MClC8Togyp1PjkFyNMkocVuPAeAcfxn1S2_i47saznBzP4uv-wRkFMwkfIkYDJynMWijn7VfqXi9zDEvimVIqWstA6w5-dH-dx=w1280",
+      "new_filename": "team-member-03.jpg",
+      "file_size": 113810
+    },
+    {
+      "original_path": "imported/our-team/AAzXCke77YYIjxtZKdlI9zWDURUuuu9lrrjRN5QGxKxNP6dDUmqroNalAdTxzKGlDS_PSK4uD5QuAASqtYuqTbEL1uJKRNUKdgoxWgI40EcqAOrNGq8Bxj3SSCp8ZmVklfGw4ehMpLtPLE2r1x0H64pLF0_aHOSmPhQl6fi5e3v4Pt8hBmBRCkPqNx_mNJw=w1280",
+      "new_path": "team/team-member-04.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "AAzXCke77YYIjxtZKdlI9zWDURUuuu9lrrjRN5QGxKxNP6dDUmqroNalAdTxzKGlDS_PSK4uD5QuAASqtYuqTbEL1uJKRNUKdgoxWgI40EcqAOrNGq8Bxj3SSCp8ZmVklfGw4ehMpLtPLE2r1x0H64pLF0_aHOSmPhQl6fi5e3v4Pt8hBmBRCkPqNx_mNJw=w1280",
+      "new_filename": "team-member-04.jpg",
+      "file_size": 13583
+    },
+    {
+      "original_path": "imported/our-team/AAzXCkf9P0irdBziOVmMQQRG6UR_9pGJ6R3_EOwSwuAtPcrHR-qk1D2bB0DxWG5WYDh0Ril0MXRDYwQBl7P-xlXY3BfKXkvrk4d4TLPSS7DVpzlVxEnVx9eJ0vZ5llfcHJglBmWCnbmQwJbRSsu9ZgqXk0pU6DKYq6NFkSjrTszZBrcsExUhC8JmRFEkBCwrEnjcOC_3F1FmXq-PAQLv-nhlqCXTkyIusNwk5Lb71zw=w1280",
+      "new_path": "team/team-member-05.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "AAzXCkf9P0irdBziOVmMQQRG6UR_9pGJ6R3_EOwSwuAtPcrHR-qk1D2bB0DxWG5WYDh0Ril0MXRDYwQBl7P-xlXY3BfKXkvrk4d4TLPSS7DVpzlVxEnVx9eJ0vZ5llfcHJglBmWCnbmQwJbRSsu9ZgqXk0pU6DKYq6NFkSjrTszZBrcsExUhC8JmRFEkBCwrEnjcOC_3F1FmXq-PAQLv-nhlqCXTkyIusNwk5Lb71zw=w1280",
+      "new_filename": "team-member-05.jpg",
+      "file_size": 9036
+    },
+    {
+      "original_path": "imported/our-team/AAzXCkfT2Sxyo0HSmMefO14TqB_vaDWHPfcK5dS3qI9NvrmZ9q0bxKEW82KtSxUkef0et5MxX2LffJG-MTTm6k5VXUNVhYEemE4fuO0RX2QX8YEHMyuANmO_Ko38ocXAnj5BGF50_6zwEA2MxwYyS86vkbfyz4cQmfaERNFmju7eyb1JFGmFe1a8HVFYgUE=w16383",
+      "new_path": "general/hero-banner.png",
+      "category": "general",
+      "source_page": "our-team",
+      "original_filename": "AAzXCkfT2Sxyo0HSmMefO14TqB_vaDWHPfcK5dS3qI9NvrmZ9q0bxKEW82KtSxUkef0et5MxX2LffJG-MTTm6k5VXUNVhYEemE4fuO0RX2QX8YEHMyuANmO_Ko38ocXAnj5BGF50_6zwEA2MxwYyS86vkbfyz4cQmfaERNFmju7eyb1JFGmFe1a8HVFYgUE=w16383",
+      "new_filename": "hero-banner.png",
+      "file_size": 36788
+    },
+    {
+      "original_path": "imported/our-team/heyi-liang.jpg",
+      "new_path": "team/heyi-liang.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "heyi-liang.jpg",
+      "new_filename": "heyi-liang.jpg",
+      "file_size": 53853
+    },
+    {
+      "original_path": "imported/our-team/jinwoo-park.jpg",
+      "new_path": "team/jinwoo-park.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "jinwoo-park.jpg",
+      "new_filename": "jinwoo-park.jpg",
+      "file_size": 9036
+    },
+    {
+      "original_path": "imported/our-team/louie-edano.jpg",
+      "new_path": "team/louie-edano.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "louie-edano.jpg",
+      "new_filename": "louie-edano.jpg",
+      "file_size": 13583
+    },
+    {
+      "original_path": "imported/our-team/nathan-maslowski.jpg",
+      "new_path": "team/nathan-maslowski.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "nathan-maslowski.jpg",
+      "new_filename": "nathan-maslowski.jpg",
+      "file_size": 54480
+    },
+    {
+      "original_path": "imported/our-team/roushan-singh.jpg",
+      "new_path": "team/roushan-singh.jpg",
+      "category": "team",
+      "source_page": "our-team",
+      "original_filename": "roushan-singh.jpg",
+      "new_filename": "roushan-singh.jpg",
+      "file_size": 113810
+    },
+    {
+      "original_path": "imported/wei-chen/AAzXCkd8Vt_CAL60y_jeCmt0xdRm94UXOBkEwLuIEnAnLh2T3-FoEaJ-0b6WouDEcOsvZDOoiWJTD6t1-jtjNPg-8JLuUWK6lB1zjdVHXo_UD4SehT9U21vIHsfa_Saxv1U0CUWVbgm8QmtKmk8celBxt31n_etXCSOPQyLJ1IhwfAv4A0ptZgYyH9CkBXcX4r5JWUprsSNp6T-dOszC-bcoaXBG_DWHHItV2tSei7c=w1280",
+      "new_path": "team/team-member-06.jpg",
+      "category": "team",
+      "source_page": "wei-chen",
+      "original_filename": "AAzXCkd8Vt_CAL60y_jeCmt0xdRm94UXOBkEwLuIEnAnLh2T3-FoEaJ-0b6WouDEcOsvZDOoiWJTD6t1-jtjNPg-8JLuUWK6lB1zjdVHXo_UD4SehT9U21vIHsfa_Saxv1U0CUWVbgm8QmtKmk8celBxt31n_etXCSOPQyLJ1IhwfAv4A0ptZgYyH9CkBXcX4r5JWUprsSNp6T-dOszC-bcoaXBG_DWHHItV2tSei7c=w1280",
+      "new_filename": "team-member-06.jpg",
+      "file_size": 191337
+    },
+    {
+      "original_path": "imported/wei-chen/wei-chen.jpg",
+      "new_path": "team/wei-chen.jpg",
+      "category": "team",
+      "source_page": "wei-chen",
+      "original_filename": "wei-chen.jpg",
+      "new_filename": "wei-chen.jpg",
+      "file_size": 191337
+    },
+    {
+      "original_path": "imported/research/AAzXCkcc0j5NIqWZ_vs9I3x-Vp-4haBgtqWQe8t2kGp03RyIBY-vWycPF5oU2Q60Xul0RSnNsF_glhTcRLsSBIWck9VeoaotITtW29aAHoDDBDA39oPortqL53ZRWshzKlnY5ncQ40r8hovS5YbhkHa3s58yHJVAWWhIPulFnDJmySR6g3ctSDCVTVV6q8UNIQZoDJw-0cbqmIwdnStNHH1ImZyZlEMOOmUQjyQS98s=w1280",
+      "new_path": "research/research-diagram-01.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "AAzXCkcc0j5NIqWZ_vs9I3x-Vp-4haBgtqWQe8t2kGp03RyIBY-vWycPF5oU2Q60Xul0RSnNsF_glhTcRLsSBIWck9VeoaotITtW29aAHoDDBDA39oPortqL53ZRWshzKlnY5ncQ40r8hovS5YbhkHa3s58yHJVAWWhIPulFnDJmySR6g3ctSDCVTVV6q8UNIQZoDJw-0cbqmIwdnStNHH1ImZyZlEMOOmUQjyQS98s=w1280",
+      "new_filename": "research-diagram-01.jpg",
+      "file_size": 93467
+    },
+    {
+      "original_path": "imported/research/AAzXCkcca-UGFaJKBSns_eryxE9l3rMD41iohYAeQYWyQraywOXkYHn46H5n-fzuPawAsw8rdP3QLu7Gn0tfVE5fQftr9PDesbxIZAOhtq04O5QbsLmNAcQ_lFJ4pdtLSI3s3_F4qX_nGc4PfstZBNwAH7kih8KEwLyHekwvW33zNLCp2OVIa4TVDNMl6dPj9xBXqh480K4iDWN0edSPxxtaVVOiev38BgGMc_g=w1280",
+      "new_path": "research/research-diagram-02.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "AAzXCkcca-UGFaJKBSns_eryxE9l3rMD41iohYAeQYWyQraywOXkYHn46H5n-fzuPawAsw8rdP3QLu7Gn0tfVE5fQftr9PDesbxIZAOhtq04O5QbsLmNAcQ_lFJ4pdtLSI3s3_F4qX_nGc4PfstZBNwAH7kih8KEwLyHekwvW33zNLCp2OVIa4TVDNMl6dPj9xBXqh480K4iDWN0edSPxxtaVVOiev38BgGMc_g=w1280",
+      "new_filename": "research-diagram-02.jpg",
+      "file_size": 223995
+    },
+    {
+      "original_path": "imported/research/AAzXCkdHl6_A7tUyhhrsTUglgCeeU7ed5VdpTOjhQyjTM6Hfm50AmC9yBNu3EIOlqTTCVA6RymnrF9-4lkyyfBle4tdANY26IXW5I9heoqcTwWMapmVim1m0G2grYHrqiSMROYLwjxR4Yfc1tzHRGnH4g0xzfU4o3uWI4E0QfHzX4Aizgc1qy4onunGy9n7NUb4d484JtduS_HAxaSNUxGFoyQ7X24d7801FstBNQVQ=w1280",
+      "new_path": "research/research-diagram-03.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "AAzXCkdHl6_A7tUyhhrsTUglgCeeU7ed5VdpTOjhQyjTM6Hfm50AmC9yBNu3EIOlqTTCVA6RymnrF9-4lkyyfBle4tdANY26IXW5I9heoqcTwWMapmVim1m0G2grYHrqiSMROYLwjxR4Yfc1tzHRGnH4g0xzfU4o3uWI4E0QfHzX4Aizgc1qy4onunGy9n7NUb4d484JtduS_HAxaSNUxGFoyQ7X24d7801FstBNQVQ=w1280",
+      "new_filename": "research-diagram-03.jpg",
+      "file_size": 145947
+    },
+    {
+      "original_path": "imported/research/AAzXCkeIatZ_If4NKioiSNe-IJ4jjlGIVhObAE_G6F4VfdkIz5E2Ej0EAE3I2bYJhtbZuRJrOLUsbKo6asAwTE21xzRXU76a7u0AAh5d5VOrGOc7v9Q4GamKG_9T2mpPRPkZenu1zYLmi1Cvp1Boo6sx0L8jYik4MCv5xdemihV4T-YGslZiCH5Kb4Y6Z4qQceSl0kb98rf1nWSkq5DxU2R7doN247aGQYkMAfcqspc=w1280",
+      "new_path": "research/research-diagram-04.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "AAzXCkeIatZ_If4NKioiSNe-IJ4jjlGIVhObAE_G6F4VfdkIz5E2Ej0EAE3I2bYJhtbZuRJrOLUsbKo6asAwTE21xzRXU76a7u0AAh5d5VOrGOc7v9Q4GamKG_9T2mpPRPkZenu1zYLmi1Cvp1Boo6sx0L8jYik4MCv5xdemihV4T-YGslZiCH5Kb4Y6Z4qQceSl0kb98rf1nWSkq5DxU2R7doN247aGQYkMAfcqspc=w1280",
+      "new_filename": "research-diagram-04.jpg",
+      "file_size": 172341
+    },
+    {
+      "original_path": "imported/research/AAzXCkfmP7VS-Z6OrEwHVw2J2dLyyXg6glhC9Ke_ugtgYs_tW1HccX41xRX99uD189dCzE9ZCOeT-hehfe-VOOyj4TNhxyIT5EVLyr7E-_84P6_L6cl3uv3TRvlFVviuDQ9TWCneyG0HdddCTcXQdRt3Ngz7XAab97G214Y18jed1BrILHNzXPQ-7d1EYmz0bTXogDdZWvrMeHGJS8XtGioSYo0Fw0-4VFyxwzOSUY0=w1280",
+      "new_path": "research/research-diagram-05.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "AAzXCkfmP7VS-Z6OrEwHVw2J2dLyyXg6glhC9Ke_ugtgYs_tW1HccX41xRX99uD189dCzE9ZCOeT-hehfe-VOOyj4TNhxyIT5EVLyr7E-_84P6_L6cl3uv3TRvlFVviuDQ9TWCneyG0HdddCTcXQdRt3Ngz7XAab97G214Y18jed1BrILHNzXPQ-7d1EYmz0bTXogDdZWvrMeHGJS8XtGioSYo0Fw0-4VFyxwzOSUY0=w1280",
+      "new_filename": "research-diagram-05.jpg",
+      "file_size": 166484
+    },
+    {
+      "original_path": "imported/research/hetero-charged-polymers.jpg",
+      "new_path": "research/hetero-charged-polymers.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "hetero-charged-polymers.jpg",
+      "new_filename": "hetero-charged-polymers.jpg",
+      "file_size": 93467
+    },
+    {
+      "original_path": "imported/research/sustainable-biocomposites.jpg",
+      "new_path": "research/sustainable-biocomposites.jpg",
+      "category": "research",
+      "source_page": "research",
+      "original_filename": "sustainable-biocomposites.jpg",
+      "new_filename": "sustainable-biocomposites.jpg",
+      "file_size": 145947
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkc08m8or1DM66duSQnhjP7s6QIpN3P_926MVmML4KBoHtueFR7exHDuHPjjdzVGaDWp4oAVBVRigWUSTNdJBZEkxEA9hLYPn8K8KP9Gs-AZzf2gwjevRmmzDH6KUjMJAemnR9E9lul6npsbauVy2IMUAWmvnFOs4Oiw7rRLHz9CPa01-OK5OqPr9VlPWLrxzKKkT7Kw6w_oY-Bcn787m6wvGU63VLMQMmZG-vQ=w1280",
+      "new_path": "facilities/equipment-01.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkc08m8or1DM66duSQnhjP7s6QIpN3P_926MVmML4KBoHtueFR7exHDuHPjjdzVGaDWp4oAVBVRigWUSTNdJBZEkxEA9hLYPn8K8KP9Gs-AZzf2gwjevRmmzDH6KUjMJAemnR9E9lul6npsbauVy2IMUAWmvnFOs4Oiw7rRLHz9CPa01-OK5OqPr9VlPWLrxzKKkT7Kw6w_oY-Bcn787m6wvGU63VLMQMmZG-vQ=w1280",
+      "new_filename": "equipment-01.jpg",
+      "file_size": 100880
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkc5roTZx05v_BLY13zH3-0lt6S1q8W3QZvdzCDJEks1Y5Av2wuzdTDctdpu_UlaFHIjSS30V_rwYgvbZxiX6Q580xC223h9aUci0gNQ3MzT3Xu1cC0G1QAV3RVNFhBLzMN_ZYHSKPJtyE46U0yWxTnB2JZzvc-EpneyL8lD27-qyuC9S8o6bETlpuumhVG6_EnTeQmzgM9RhkQB9H5tV4zxDjWkTeVE52o-=w1280",
+      "new_path": "facilities/equipment-02.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkc5roTZx05v_BLY13zH3-0lt6S1q8W3QZvdzCDJEks1Y5Av2wuzdTDctdpu_UlaFHIjSS30V_rwYgvbZxiX6Q580xC223h9aUci0gNQ3MzT3Xu1cC0G1QAV3RVNFhBLzMN_ZYHSKPJtyE46U0yWxTnB2JZzvc-EpneyL8lD27-qyuC9S8o6bETlpuumhVG6_EnTeQmzgM9RhkQB9H5tV4zxDjWkTeVE52o-=w1280",
+      "new_filename": "equipment-02.jpg",
+      "file_size": 56763
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcQ83mGOUZx4ObE5mWPtozoZFPHvPtERlS7V_Ya8fyeUHNVZgjnCjtbED6LvQBeyTUzqdhXYK8wN8QwUtpvfHnFf4PisOZ504MHUpoztgpuat8Vdsvu5jcniqvqS8WGvzKpalzmnFYbC-fYXdH5YIzwezRHiOv7YO8d9q0Ds_WpTFKnLEuHdYlvzeEjtyAYKUxdZct73pfFpFxvxfeuA6TGEREMDlRWfL9l=w1280",
+      "new_path": "facilities/equipment-03.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcQ83mGOUZx4ObE5mWPtozoZFPHvPtERlS7V_Ya8fyeUHNVZgjnCjtbED6LvQBeyTUzqdhXYK8wN8QwUtpvfHnFf4PisOZ504MHUpoztgpuat8Vdsvu5jcniqvqS8WGvzKpalzmnFYbC-fYXdH5YIzwezRHiOv7YO8d9q0Ds_WpTFKnLEuHdYlvzeEjtyAYKUxdZct73pfFpFxvxfeuA6TGEREMDlRWfL9l=w1280",
+      "new_filename": "equipment-03.jpg",
+      "file_size": 187661
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkca9MUOKn687d6vbnbyWCyOd0VY1Lu4yhHTr37O1k3bligF7dKCETYsXfFLZMh-JMfPJ97pUrY09chCgxUc2E4xgQ5mYkvQtgietYLdzcusqLTSDqp7mcKZ5iSK6Gd-egvnztAfC_N0LfnOKS-wy06UeL_QmBBLWDMbCWS0z89Kh5pJq9P_Jc90IYWZ5b2zJdwTuOcnDMO6YUVGO1ZV38FF31b20ew7PJ4htng=w1280",
+      "new_path": "facilities/equipment-04.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkca9MUOKn687d6vbnbyWCyOd0VY1Lu4yhHTr37O1k3bligF7dKCETYsXfFLZMh-JMfPJ97pUrY09chCgxUc2E4xgQ5mYkvQtgietYLdzcusqLTSDqp7mcKZ5iSK6Gd-egvnztAfC_N0LfnOKS-wy06UeL_QmBBLWDMbCWS0z89Kh5pJq9P_Jc90IYWZ5b2zJdwTuOcnDMO6YUVGO1ZV38FF31b20ew7PJ4htng=w1280",
+      "new_filename": "equipment-04.jpg",
+      "file_size": 84140
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcdlSMVPPmCIqxgyOFUGeFbS3FNqREgvNjZrQflSPqbkzx85P8dzgul6cMN2DuxYVgFuzZIxPKACXbLAtVMw3IBKXmaQ-4B5Y-rH7XVkppY2Vh0aOOg_-pYMEMrxK3NRVgZqRf2A2_KHwNGpJNBOkX49ydPTVt4Yi_GmL8LNyqYpTMsefw7-4X9bnwAJFbLK-UwRP20_Cm86TdEkhjJxSdgp5nlagSKZ1250cE=w1280",
+      "new_path": "facilities/equipment-05.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcdlSMVPPmCIqxgyOFUGeFbS3FNqREgvNjZrQflSPqbkzx85P8dzgul6cMN2DuxYVgFuzZIxPKACXbLAtVMw3IBKXmaQ-4B5Y-rH7XVkppY2Vh0aOOg_-pYMEMrxK3NRVgZqRf2A2_KHwNGpJNBOkX49ydPTVt4Yi_GmL8LNyqYpTMsefw7-4X9bnwAJFbLK-UwRP20_Cm86TdEkhjJxSdgp5nlagSKZ1250cE=w1280",
+      "new_filename": "equipment-05.jpg",
+      "file_size": 160283
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcedgwlTa3wknW9UvSBaJVXP5MpdJLwEYKVonT8ePOV9MAxhiyhXmsT7wDZ4Vwxf0BOSydaVRSJqWv2jsJV7b_WwxPa8CrY2ib5uZy2S-DxDeeR27f8JZKBJvAk7QyUYF2_ayq7_uwPk8JVOKLLkdzCLp-JNaA-B0jvwlztjvdsD4gqdFF--YaE-WHMfE7vZ5X9Ga1nUj8xUPr6T13TNW0dz751qjYb7kH0=w1280",
+      "new_path": "facilities/equipment-06.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcedgwlTa3wknW9UvSBaJVXP5MpdJLwEYKVonT8ePOV9MAxhiyhXmsT7wDZ4Vwxf0BOSydaVRSJqWv2jsJV7b_WwxPa8CrY2ib5uZy2S-DxDeeR27f8JZKBJvAk7QyUYF2_ayq7_uwPk8JVOKLLkdzCLp-JNaA-B0jvwlztjvdsD4gqdFF--YaE-WHMfE7vZ5X9Ga1nUj8xUPr6T13TNW0dz751qjYb7kH0=w1280",
+      "new_filename": "equipment-06.jpg",
+      "file_size": 108521
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcp8e7xqkMAviZbAp6e2cI-ivpW_ZPrXBNclK9BCjGmvdhsEZwuj6CcaiCnR_0SrSSi4DCTHB-h6b5hAMFmFETONtI2Q_EEFRPKtG6iD2BgYhUqIZp1zzcq4GrBHahCLxMgDu-jLD7iRkwpmbESRtxvxUrY1-HTpxsoW4rRhDLv1ryVm0Ve7L7lOY6-ANaTjYumZVy8xjrjLSUFjDlWKvj1AOJ0FIp9e39A=w1280",
+      "new_path": "facilities/equipment-07.png",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcp8e7xqkMAviZbAp6e2cI-ivpW_ZPrXBNclK9BCjGmvdhsEZwuj6CcaiCnR_0SrSSi4DCTHB-h6b5hAMFmFETONtI2Q_EEFRPKtG6iD2BgYhUqIZp1zzcq4GrBHahCLxMgDu-jLD7iRkwpmbESRtxvxUrY1-HTpxsoW4rRhDLv1ryVm0Ve7L7lOY6-ANaTjYumZVy8xjrjLSUFjDlWKvj1AOJ0FIp9e39A=w1280",
+      "new_filename": "equipment-07.png",
+      "file_size": 234945
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcqWKJUc8pplFQTscbZu8t9cg57-ffzVKNEAyvo7eiS1ZKrAKLd6dcYBRRR0Z6Y8bAlPs0Mn0iyeXl2e7w1FuWALLx9KX2e58jP2Mj0DqPMSeJI0xqb6nRxmPKowp-iiGUTNL84l84EmDnRbI3ckoiWtGYp3Se92M8PbQh9AzkGuDanrZCaZQEohduMlMvrv4zn9ov61OQ8jaATx39LBfTrEL2Sg3XwXS_zWgc=w1280",
+      "new_path": "facilities/equipment-08.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcqWKJUc8pplFQTscbZu8t9cg57-ffzVKNEAyvo7eiS1ZKrAKLd6dcYBRRR0Z6Y8bAlPs0Mn0iyeXl2e7w1FuWALLx9KX2e58jP2Mj0DqPMSeJI0xqb6nRxmPKowp-iiGUTNL84l84EmDnRbI3ckoiWtGYp3Se92M8PbQh9AzkGuDanrZCaZQEohduMlMvrv4zn9ov61OQ8jaATx39LBfTrEL2Sg3XwXS_zWgc=w1280",
+      "new_filename": "equipment-08.jpg",
+      "file_size": 47673
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcsd_SIlwQCy6A6K4gpefxajJXR9OISciYL_nejZykbIMJVnZ7HNmvjRJf_I_dBN9qatSQlecNiyftpGZkzsCZtUzYgXhLeoDjFYXGOI8l4iHaBVxKmlRA3O2f8v4fFuLUXygmH7Mzk6SOQg5GiiPNVV1s-gAPbRD95uCme6pYR4ossCPWrgWlaFno=w1280",
+      "new_path": "facilities/equipment-09.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcsd_SIlwQCy6A6K4gpefxajJXR9OISciYL_nejZykbIMJVnZ7HNmvjRJf_I_dBN9qatSQlecNiyftpGZkzsCZtUzYgXhLeoDjFYXGOI8l4iHaBVxKmlRA3O2f8v4fFuLUXygmH7Mzk6SOQg5GiiPNVV1s-gAPbRD95uCme6pYR4ossCPWrgWlaFno=w1280",
+      "new_filename": "equipment-09.jpg",
+      "file_size": 100400
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcvMo_EHGD9s1JiQfjWtywOdvixN8xQ1cA-IOmTtANU_lUyGissmScnTKGcpiD_gIfojq5neiPRTExIihoyeUZvRWlj6fytymghf0Cba8jl6B_Nlyd5AY0N7ZkWJ3kuMlCevjGDN5qLL6_AG0Xn6nt_5Br1FA3ttwNM32ueljksftRgiCoMvD4n_CrjmmUtQPPaq02VOQF-lzi0UVh-BE-jdOGZFDMuiPKOAD0=w1280",
+      "new_path": "facilities/equipment-10.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcvMo_EHGD9s1JiQfjWtywOdvixN8xQ1cA-IOmTtANU_lUyGissmScnTKGcpiD_gIfojq5neiPRTExIihoyeUZvRWlj6fytymghf0Cba8jl6B_Nlyd5AY0N7ZkWJ3kuMlCevjGDN5qLL6_AG0Xn6nt_5Br1FA3ttwNM32ueljksftRgiCoMvD4n_CrjmmUtQPPaq02VOQF-lzi0UVh-BE-jdOGZFDMuiPKOAD0=w1280",
+      "new_filename": "equipment-10.jpg",
+      "file_size": 139075
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkcySAcE8HOB79xsauWv-ynwWl7ZCthU51Z34yVqV3qSaTMxcU7eorC3rxFMUlAJjHE4oilaoe7ims22fTIkSmzH4ytOkCCnxjd9xutQN1I55wb3p8wLvMl6Kby5EFaLI-z4A8tSXM-c_yGb4g-Yi_r3qfHDZ0hIIVLPV1UaQGYxNGU5c7Fvkl8FAyjAS7o6es6vTkjMNmuHJhyRDyVO0sVAgzXQgJLv4-chuow=w1280",
+      "new_path": "facilities/equipment-11.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkcySAcE8HOB79xsauWv-ynwWl7ZCthU51Z34yVqV3qSaTMxcU7eorC3rxFMUlAJjHE4oilaoe7ims22fTIkSmzH4ytOkCCnxjd9xutQN1I55wb3p8wLvMl6Kby5EFaLI-z4A8tSXM-c_yGb4g-Yi_r3qfHDZ0hIIVLPV1UaQGYxNGU5c7Fvkl8FAyjAS7o6es6vTkjMNmuHJhyRDyVO0sVAgzXQgJLv4-chuow=w1280",
+      "new_filename": "equipment-11.jpg",
+      "file_size": 16071
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkd8br2BemUcMTL3FETt9FYwezgomSVu7IMO3HgfwSQ7vlU1-1dcAVfuSSaOcuvHpS7PSbK9BdtInZihaHUHA_4RJALGM1jT2Viwzk3aFMdmDI7DdMlk1DJNhBYMZHzrK69HN8p0GWf3dhZb967y_vrX2tIR0YGyEf69fX3SHDcDn1eJeZrs1UlgWvk=w1280",
+      "new_path": "facilities/equipment-12.png",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkd8br2BemUcMTL3FETt9FYwezgomSVu7IMO3HgfwSQ7vlU1-1dcAVfuSSaOcuvHpS7PSbK9BdtInZihaHUHA_4RJALGM1jT2Viwzk3aFMdmDI7DdMlk1DJNhBYMZHzrK69HN8p0GWf3dhZb967y_vrX2tIR0YGyEf69fX3SHDcDn1eJeZrs1UlgWvk=w1280",
+      "new_filename": "equipment-12.png",
+      "file_size": 80531
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkd8qLIU36_KIaA9ayUQ6tFPFtISzif248m-TcR2EzY7PjceFtAYmjbjpf421Wv3ow8o4QVBIsI0E4LFx17KVm3sjcIrV00y1tliSi80eHKgFAV6SRlqUaCkkWs5t-DsFtRPMLSkJvOj0r7dz2OAPZkwdr-FEy5QkQcZzl0GoepeCz2vUI-rn3tGe9I=w1280",
+      "new_path": "facilities/equipment-13.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkd8qLIU36_KIaA9ayUQ6tFPFtISzif248m-TcR2EzY7PjceFtAYmjbjpf421Wv3ow8o4QVBIsI0E4LFx17KVm3sjcIrV00y1tliSi80eHKgFAV6SRlqUaCkkWs5t-DsFtRPMLSkJvOj0r7dz2OAPZkwdr-FEy5QkQcZzl0GoepeCz2vUI-rn3tGe9I=w1280",
+      "new_filename": "equipment-13.jpg",
+      "file_size": 117758
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkd9oiE8Wqw7vBo-5vJQMRbsK57igtXVWX-nbaqOFQqy3D6tFdKYlDsQ65EdLIvQOivotvc3OSx5qWsT1meCbyCSijpRVas-2sP_3A5CYLA1KBfP5QFtSLlbiYdXCwIN1jo-BRLsjAV4CYkpsKQJeXc5eTZBaq8R0efKTkdrXvewIA3IysJt0Q7jVgEznNHZDC28bmb1opWrObJFZ9LSb-r0_gQ-Qbq8aKL0eYE=w1280",
+      "new_path": "facilities/equipment-14.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkd9oiE8Wqw7vBo-5vJQMRbsK57igtXVWX-nbaqOFQqy3D6tFdKYlDsQ65EdLIvQOivotvc3OSx5qWsT1meCbyCSijpRVas-2sP_3A5CYLA1KBfP5QFtSLlbiYdXCwIN1jo-BRLsjAV4CYkpsKQJeXc5eTZBaq8R0efKTkdrXvewIA3IysJt0Q7jVgEznNHZDC28bmb1opWrObJFZ9LSb-r0_gQ-Qbq8aKL0eYE=w1280",
+      "new_filename": "equipment-14.jpg",
+      "file_size": 30673
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdBHtMXzUJ0Y9UT5coagG3e6mF9v_vpL6k4xrDRP-IW_1r97TxWVdzCnrT9xtIChIYFRu9GXsIsebafs6T5rtPUkxsdLWZa7j4opa2P-DUmJr6kstC44T5l6TvMyzewlpbUKXmX5lE7eyedYVzebS6jTz93q1z7I-tde8DSufRHhcIkNTBggk024hEqJH9xRg6sEpkXf1xhFhfgotV6LAfubvnYt56ISVNf=w1280",
+      "new_path": "facilities/equipment-15.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdBHtMXzUJ0Y9UT5coagG3e6mF9v_vpL6k4xrDRP-IW_1r97TxWVdzCnrT9xtIChIYFRu9GXsIsebafs6T5rtPUkxsdLWZa7j4opa2P-DUmJr6kstC44T5l6TvMyzewlpbUKXmX5lE7eyedYVzebS6jTz93q1z7I-tde8DSufRHhcIkNTBggk024hEqJH9xRg6sEpkXf1xhFhfgotV6LAfubvnYt56ISVNf=w1280",
+      "new_filename": "equipment-15.jpg",
+      "file_size": 20869
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdDqzTvOBnQq9LP7H-1fJh8x5sNQjmNggQUuV-cmsw89u7UyFtLJ6s-UkFvHQxReI7KGOCdEIxTouL79NRL3oQshU9R8U9p1v1fT1PfgctyVG1N04b0_x5mQVJqmBXBPFJXRfZ27YyKAJXr0B3XuhtHpPabCBNMu1xQhNFePZuhC2xShA9fD6FMV6lwBM587Ste9Sbdn9xINhufMBQ-l-jQkH-hFbxWitsUdFY=w1280",
+      "new_path": "facilities/equipment-16.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdDqzTvOBnQq9LP7H-1fJh8x5sNQjmNggQUuV-cmsw89u7UyFtLJ6s-UkFvHQxReI7KGOCdEIxTouL79NRL3oQshU9R8U9p1v1fT1PfgctyVG1N04b0_x5mQVJqmBXBPFJXRfZ27YyKAJXr0B3XuhtHpPabCBNMu1xQhNFePZuhC2xShA9fD6FMV6lwBM587Ste9Sbdn9xINhufMBQ-l-jQkH-hFbxWitsUdFY=w1280",
+      "new_filename": "equipment-16.jpg",
+      "file_size": 42207
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdMwGmgtcxAQewhKj-ntThRLqvHXFousxE58SmmEg2-Wtbcc4Fji3h7Ohf0SRPseXtruElw1yKBrlPSg9EfRlVAlcKkafwZ7HOulW-C_dF-9euGB_M8pMeigF7ZktrhhBY8DNNnzDWamusdW77cyl4VK9KFA-h-aSCjKjEkt0PYbf0SFhskmJAx-BrJxbnEQ5DQ6zF4qkPDDpWpwbLvZpGhM4JIVANDh7kh=w1280",
+      "new_path": "facilities/equipment-17.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdMwGmgtcxAQewhKj-ntThRLqvHXFousxE58SmmEg2-Wtbcc4Fji3h7Ohf0SRPseXtruElw1yKBrlPSg9EfRlVAlcKkafwZ7HOulW-C_dF-9euGB_M8pMeigF7ZktrhhBY8DNNnzDWamusdW77cyl4VK9KFA-h-aSCjKjEkt0PYbf0SFhskmJAx-BrJxbnEQ5DQ6zF4qkPDDpWpwbLvZpGhM4JIVANDh7kh=w1280",
+      "new_filename": "equipment-17.jpg",
+      "file_size": 71761
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdN2BAOdqZxGON20t2fcELKr8wV0LKuOkGVvaCqOhJMyKrBjdsq1DNFfXPQVprVmrpe_45LncfHz5ZwB0ar4CjKFqcNVLYU_v2y4YMGzccBs4YNq_e4_I_jv49kde1zUv47aGuCP-Mxh0pwybgzHt5-Um0dox5LxAX7ieMUCDPg0P1zCaakOMHB332OUyn79W_cplrp9ju9hLogzxrcvJoZBuENlTJLRVjy4V4=w1280",
+      "new_path": "facilities/equipment-18.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdN2BAOdqZxGON20t2fcELKr8wV0LKuOkGVvaCqOhJMyKrBjdsq1DNFfXPQVprVmrpe_45LncfHz5ZwB0ar4CjKFqcNVLYU_v2y4YMGzccBs4YNq_e4_I_jv49kde1zUv47aGuCP-Mxh0pwybgzHt5-Um0dox5LxAX7ieMUCDPg0P1zCaakOMHB332OUyn79W_cplrp9ju9hLogzxrcvJoZBuENlTJLRVjy4V4=w1280",
+      "new_filename": "equipment-18.jpg",
+      "file_size": 16700
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdSKHvx3skWFWcQGT8XCEXmBRqlzGp_NcY9Wc8-9FybJWd4D0l0FJH9ifO9NeWQRaWH1xatxy7SPSahDkBjUsKylfK9VYyp1MqfkA04qxU0UrYSVAWQUjYQeRM7TRcaUm-Kkv8oHEf-0cGyhoMVee85l5ymvodLwTEZLNB1g92MWhdh5EtGII8tgCU=w1280",
+      "new_path": "facilities/equipment-19.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdSKHvx3skWFWcQGT8XCEXmBRqlzGp_NcY9Wc8-9FybJWd4D0l0FJH9ifO9NeWQRaWH1xatxy7SPSahDkBjUsKylfK9VYyp1MqfkA04qxU0UrYSVAWQUjYQeRM7TRcaUm-Kkv8oHEf-0cGyhoMVee85l5ymvodLwTEZLNB1g92MWhdh5EtGII8tgCU=w1280",
+      "new_filename": "equipment-19.jpg",
+      "file_size": 21463
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdSj1v_0Heyl3A27v7Iwsmci254JZx9Pr9lCWTmqsRzQVNyn8wpZUXe1TgrB0yj3gsZLtdkKTEijk_7gA09yZs4jJJo3hD-bGNxhX-X75iMQGEuVm6txOtdXU8vSYDZs7M3jPeAnKRg8faK1_o9AXbUt3x8MwmJIKUDeAGi1oBpaQnsYULMu7AKrvM=w1280",
+      "new_path": "facilities/equipment-20.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdSj1v_0Heyl3A27v7Iwsmci254JZx9Pr9lCWTmqsRzQVNyn8wpZUXe1TgrB0yj3gsZLtdkKTEijk_7gA09yZs4jJJo3hD-bGNxhX-X75iMQGEuVm6txOtdXU8vSYDZs7M3jPeAnKRg8faK1_o9AXbUt3x8MwmJIKUDeAGi1oBpaQnsYULMu7AKrvM=w1280",
+      "new_filename": "equipment-20.jpg",
+      "file_size": 8538
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdUCf2C09uCFwSLcmXWMBfje66dGUEyj7Njb03KfElzuaMABtRBP3g7my_eXYuLaIhVwUoqPJZRMX8TDFf-NwPrwV-nEVDX0_8SCZ-yF2YipwygheCcwYeBHgOTLGjDKkrie4GKXI5S8iRjkU3I_aJEJVhHkO5ybzhmuQxMWJG1XONBclxo2KzK3WA=w1280",
+      "new_path": "facilities/equipment-21.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdUCf2C09uCFwSLcmXWMBfje66dGUEyj7Njb03KfElzuaMABtRBP3g7my_eXYuLaIhVwUoqPJZRMX8TDFf-NwPrwV-nEVDX0_8SCZ-yF2YipwygheCcwYeBHgOTLGjDKkrie4GKXI5S8iRjkU3I_aJEJVhHkO5ybzhmuQxMWJG1XONBclxo2KzK3WA=w1280",
+      "new_filename": "equipment-21.jpg",
+      "file_size": 77934
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdWmtEyNTGEFqcqd1z_L7s8MsY9sOMxnV-CTEt0m-lucVJHjkUSCXe8sEWncE9BRP2rLtOahVBGEOe7y4x9yJaeD6orzyBPxyBiHVcGo51fo2rqisCvN7yXSSgdFaKd8H8dEDf7dwb0_l3I2mZFMPW419tomnUpVSyemUJ5WDFTKrBwoUI8TAobelSNHiHtOcmVm6wPwCYtfmAvn13jPUPHDBsUJoEy9EeFFiE=w1280",
+      "new_path": "facilities/equipment-22.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdWmtEyNTGEFqcqd1z_L7s8MsY9sOMxnV-CTEt0m-lucVJHjkUSCXe8sEWncE9BRP2rLtOahVBGEOe7y4x9yJaeD6orzyBPxyBiHVcGo51fo2rqisCvN7yXSSgdFaKd8H8dEDf7dwb0_l3I2mZFMPW419tomnUpVSyemUJ5WDFTKrBwoUI8TAobelSNHiHtOcmVm6wPwCYtfmAvn13jPUPHDBsUJoEy9EeFFiE=w1280",
+      "new_filename": "equipment-22.jpg",
+      "file_size": 131669
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdcbwcoAlWE_qHocU-LNP0Rcz-DMfEbKveYKElBo4DnNipwRQoDeRU2VtohQv4Kfbk6s_zRVsbm3h-rb3mDA_9xVPsQzOLVCO1oIqsk_8aDSgOaHH4u5PtlIVTs40OAG_mialJf-r1FiNifNLh0dH2uAjzNFbBOkE_7Gjw4xeLUVIEqHSokyEep3V59CjwOmV3-WKgV9ltr50vAJ0tJ6BFXaDl37QinuF8kBb8=w1280",
+      "new_path": "facilities/equipment-23.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdcbwcoAlWE_qHocU-LNP0Rcz-DMfEbKveYKElBo4DnNipwRQoDeRU2VtohQv4Kfbk6s_zRVsbm3h-rb3mDA_9xVPsQzOLVCO1oIqsk_8aDSgOaHH4u5PtlIVTs40OAG_mialJf-r1FiNifNLh0dH2uAjzNFbBOkE_7Gjw4xeLUVIEqHSokyEep3V59CjwOmV3-WKgV9ltr50vAJ0tJ6BFXaDl37QinuF8kBb8=w1280",
+      "new_filename": "equipment-23.jpg",
+      "file_size": 111277
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdofCaj0SxlT5gp_HzjeSIVBcveWXQoHIlVAMqfHQLDZiZkKEIAH1VCiDaYt3R_xex_bMRRbixf6WHnzYQpYhUwLF7Hkp02PcMpIxefqiaFQ1wLDT1yipD4zYBrRGFbgVc57zFrbvpXiWg-xO7wlOTj6J2voEWFHRTs1LtBUkEVd3Eo_T2PPiG_JtMr1puXq6hpCvGlk3S9hcoq-RsUa4EK6jR6S5VDHw=w1280",
+      "new_path": "facilities/equipment-24.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdofCaj0SxlT5gp_HzjeSIVBcveWXQoHIlVAMqfHQLDZiZkKEIAH1VCiDaYt3R_xex_bMRRbixf6WHnzYQpYhUwLF7Hkp02PcMpIxefqiaFQ1wLDT1yipD4zYBrRGFbgVc57zFrbvpXiWg-xO7wlOTj6J2voEWFHRTs1LtBUkEVd3Eo_T2PPiG_JtMr1puXq6hpCvGlk3S9hcoq-RsUa4EK6jR6S5VDHw=w1280",
+      "new_filename": "equipment-24.jpg",
+      "file_size": 84483
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkdvvxmIOoR9zTvjkSC5we4pe-atUsENg_RKF6uAt_iDfixelU7au1DXLQ5oOQauIy5pTCV0gijWDUATU594EvWdkuZOLzG1hZ3lvZmq7SxpZ0JsslAwDVikiGZXf1RqQA7K53CjH4mpViur9cyt58VKr9q3nCJeSj6qE0lVzp-AGHEuS6qn7GYy6DBOYiHVVYB8iOWy8JfMxVi001gb25nQ7sbEmQiw2WMCWco=w1280",
+      "new_path": "facilities/equipment-25.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkdvvxmIOoR9zTvjkSC5we4pe-atUsENg_RKF6uAt_iDfixelU7au1DXLQ5oOQauIy5pTCV0gijWDUATU594EvWdkuZOLzG1hZ3lvZmq7SxpZ0JsslAwDVikiGZXf1RqQA7K53CjH4mpViur9cyt58VKr9q3nCJeSj6qE0lVzp-AGHEuS6qn7GYy6DBOYiHVVYB8iOWy8JfMxVi001gb25nQ7sbEmQiw2WMCWco=w1280",
+      "new_filename": "equipment-25.jpg",
+      "file_size": 47501
+    },
+    {
+      "original_path": "imported/facilities/AAzXCke-hhhZLagyWxWgPbzjCNcav1CKuEVSsSZhgjg1DAx4VQ1LTa_v1GztIRMJZ__KROOmZHbnUAIJDapbakwmuOY5pJJ9bodK5KCJpCj13dWlTvRgeeUQkJkr2jPG_JMFe6WnT_QqJfOMNv8REFQom74-yuNiYyzjXJNZcvZr_L1OAYCPKKqOmFlO=w1280",
+      "new_path": "facilities/equipment-26.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCke-hhhZLagyWxWgPbzjCNcav1CKuEVSsSZhgjg1DAx4VQ1LTa_v1GztIRMJZ__KROOmZHbnUAIJDapbakwmuOY5pJJ9bodK5KCJpCj13dWlTvRgeeUQkJkr2jPG_JMFe6WnT_QqJfOMNv8REFQom74-yuNiYyzjXJNZcvZr_L1OAYCPKKqOmFlO=w1280",
+      "new_filename": "equipment-26.jpg",
+      "file_size": 24169
+    },
+    {
+      "original_path": "imported/facilities/AAzXCke-oeqN37xp7yzkwAH4tu2p4b_DCdKmP8XFrO503WlhzQ2J4EsLaEyszQ34J3mgDzcsZ7fIQ37Q-OoALjv7Gz1r3gyelBnEcTXPFXLI7GATKSjVA3aTlxkfdILZAnN-pQNHnLmZFRMhpMXdGkPaVzBLYNtjqwsvQYKbk6FANvhN9VArSaFa-f9oOH1Ezqi2efW8W5MANXhUdBYGWyrDKXdq5qXQb7yT9MC6cPc=w1280",
+      "new_path": "facilities/equipment-27.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCke-oeqN37xp7yzkwAH4tu2p4b_DCdKmP8XFrO503WlhzQ2J4EsLaEyszQ34J3mgDzcsZ7fIQ37Q-OoALjv7Gz1r3gyelBnEcTXPFXLI7GATKSjVA3aTlxkfdILZAnN-pQNHnLmZFRMhpMXdGkPaVzBLYNtjqwsvQYKbk6FANvhN9VArSaFa-f9oOH1Ezqi2efW8W5MANXhUdBYGWyrDKXdq5qXQb7yT9MC6cPc=w1280",
+      "new_filename": "equipment-27.jpg",
+      "file_size": 36131
+    },
+    {
+      "original_path": "imported/facilities/AAzXCke4mj4vdMU9m0emIUIKbGj9GlDwQ7ZPTNsH41ErLE7wQzRq21e4Rm69OtyZpjrWLK5GZHvvVk9qJVzuwvZIQS9vlGdnPTcl9SYmdXPV6jcBYWqb2dANO8celHLR3BY7cxZCjcFjs7oTfUsr2VFiFsQwI0PWd6mOwMSIamwZdADN3Ipt0WmTcCSXW-9JZF1FPKsmRTbWMvq1V33jMMVdOfhsynFWjXEtZ9NXNoY=w1280",
+      "new_path": "facilities/equipment-28.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCke4mj4vdMU9m0emIUIKbGj9GlDwQ7ZPTNsH41ErLE7wQzRq21e4Rm69OtyZpjrWLK5GZHvvVk9qJVzuwvZIQS9vlGdnPTcl9SYmdXPV6jcBYWqb2dANO8celHLR3BY7cxZCjcFjs7oTfUsr2VFiFsQwI0PWd6mOwMSIamwZdADN3Ipt0WmTcCSXW-9JZF1FPKsmRTbWMvq1V33jMMVdOfhsynFWjXEtZ9NXNoY=w1280",
+      "new_filename": "equipment-28.jpg",
+      "file_size": 171554
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkeD31jDl4WJRcqa5lonGE2TZDynhckaqA_1p73foPxKDp_AoL60vEibwmkoCaMNkL1V998BJn6bDOjq1mInYwcjgkm3MS5-FcSfceu6rwXurwNbgwbEa_bMqw__qz3he9_18pW0lCwDUlMyn0HUM0hFLuQbiXrHxcf7m9MHrPR4J3NvSHtwxaoa4iAfkEdSR4l4FiCjHAFBOs0hWzKh4ck-EGrWLbc-S90HHzo=w1280",
+      "new_path": "facilities/equipment-29.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkeD31jDl4WJRcqa5lonGE2TZDynhckaqA_1p73foPxKDp_AoL60vEibwmkoCaMNkL1V998BJn6bDOjq1mInYwcjgkm3MS5-FcSfceu6rwXurwNbgwbEa_bMqw__qz3he9_18pW0lCwDUlMyn0HUM0hFLuQbiXrHxcf7m9MHrPR4J3NvSHtwxaoa4iAfkEdSR4l4FiCjHAFBOs0hWzKh4ck-EGrWLbc-S90HHzo=w1280",
+      "new_filename": "equipment-29.jpg",
+      "file_size": 29899
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkeGRp4ek9FEvbvdR4zaphD_izwfkriFVUHmkERXWgVKJDPq6iuBvVj0oIXqcn1m3YqUma0gYFFWJhdNgz2dXdAwYZxaXGdx46iM9vvv6Hzm5fWRIo4D9Ks_I-37ejsOncDgE702hCYG-0yPpmyF_SIHmdkiGdCRkfSwVmlWq3PgC7FZ3pVlQcNLE172PaTlfX6mQGbriXO9zVDIy8q9nDch9OcnSwdVbTbq=w1280",
+      "new_path": "facilities/equipment-30.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkeGRp4ek9FEvbvdR4zaphD_izwfkriFVUHmkERXWgVKJDPq6iuBvVj0oIXqcn1m3YqUma0gYFFWJhdNgz2dXdAwYZxaXGdx46iM9vvv6Hzm5fWRIo4D9Ks_I-37ejsOncDgE702hCYG-0yPpmyF_SIHmdkiGdCRkfSwVmlWq3PgC7FZ3pVlQcNLE172PaTlfX6mQGbriXO9zVDIy8q9nDch9OcnSwdVbTbq=w1280",
+      "new_filename": "equipment-30.jpg",
+      "file_size": 61376
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkeHp2fq0UWIMc1gF729NBWsH7y3AGCPtHaojyWkVzKdCRkubKa6SRHF9we1idT-DaUh9H1bxl7mipYGFa3G9sNxL854lW5E_mBxMKQIat3b-e-GmRMj_ewpscc4jTrPEAovtZMUDemohqcSnm1YdG1rucYb6Hj6FdecPs_y6IqBk7rkUTd804ELjO6vw-2lMF9ffQGo08pIm6d4Ruw0BQ7_Ow5npx3oRevaW9I=w1280",
+      "new_path": "facilities/equipment-31.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkeHp2fq0UWIMc1gF729NBWsH7y3AGCPtHaojyWkVzKdCRkubKa6SRHF9we1idT-DaUh9H1bxl7mipYGFa3G9sNxL854lW5E_mBxMKQIat3b-e-GmRMj_ewpscc4jTrPEAovtZMUDemohqcSnm1YdG1rucYb6Hj6FdecPs_y6IqBk7rkUTd804ELjO6vw-2lMF9ffQGo08pIm6d4Ruw0BQ7_Ow5npx3oRevaW9I=w1280",
+      "new_filename": "equipment-31.jpg",
+      "file_size": 23946
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkeKwFrGgCRdSNWDymH0vlkVUVj2GIEIzWft_o2jdAHhRERnaf61IlPwkVd8j6rU0ZzzlBf_v-KGrXRtxr1mudyCwVPTC17QBl_32XGJcvHAS2ZTUIoX8kzCzuJxjNn5aFnuRB-4R50lLL72NRl89H9YEpDWZRrL-NqoCzcOpQj66_6OWOHX1_RNv3gZL5W6ZEj03TQ4pTOsbHNF2rO6DbagV_fsYgZtQZk1kds=w1280",
+      "new_path": "facilities/equipment-32.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkeKwFrGgCRdSNWDymH0vlkVUVj2GIEIzWft_o2jdAHhRERnaf61IlPwkVd8j6rU0ZzzlBf_v-KGrXRtxr1mudyCwVPTC17QBl_32XGJcvHAS2ZTUIoX8kzCzuJxjNn5aFnuRB-4R50lLL72NRl89H9YEpDWZRrL-NqoCzcOpQj66_6OWOHX1_RNv3gZL5W6ZEj03TQ4pTOsbHNF2rO6DbagV_fsYgZtQZk1kds=w1280",
+      "new_filename": "equipment-32.jpg",
+      "file_size": 18233
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkeYSN6j5HW_9tjDBfCbT4psfdAKCOeVTW8Aym2yjs3j7xd9eigXpKoSP1HD9rsKhdroVBVEGnpsiz0fMOrrp57RVm2Xlsw-JofgaWAM1gj1Eo9aLu686ImjlC78_JFt7LYL8lRUvYfiD0LWgljurdaEafXnsaBP8aWZaGr_uT4iFwtXwk_PeFaiLGqyfkx4FMJ-KRmxZmxxd2Q5y6wjUoyRoL4nZTsl3TlFruI=w1280",
+      "new_path": "facilities/equipment-33.png",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkeYSN6j5HW_9tjDBfCbT4psfdAKCOeVTW8Aym2yjs3j7xd9eigXpKoSP1HD9rsKhdroVBVEGnpsiz0fMOrrp57RVm2Xlsw-JofgaWAM1gj1Eo9aLu686ImjlC78_JFt7LYL8lRUvYfiD0LWgljurdaEafXnsaBP8aWZaGr_uT4iFwtXwk_PeFaiLGqyfkx4FMJ-KRmxZmxxd2Q5y6wjUoyRoL4nZTsl3TlFruI=w1280",
+      "new_filename": "equipment-33.png",
+      "file_size": 32341
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkea4XBUO_K1hWoO1SdpI_ZSnLDirDaL8MzTHYtRoHHdPhozYhzJyKi026ADAD6eepuEej8ZOTsDHKzkboeyVTkTugckhPVDB2LmbOeahNsnJ9sBilq9qolnxpYfFsB__gcwnzx0yn5BBs9-_jJqutr8vXceBEuizhmt6mrCNHKMns69D9yuAHkihnph3RUURf66namBVashBZREnED6ozjn96dh9KS1de3W=w1280",
+      "new_path": "facilities/equipment-34.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkea4XBUO_K1hWoO1SdpI_ZSnLDirDaL8MzTHYtRoHHdPhozYhzJyKi026ADAD6eepuEej8ZOTsDHKzkboeyVTkTugckhPVDB2LmbOeahNsnJ9sBilq9qolnxpYfFsB__gcwnzx0yn5BBs9-_jJqutr8vXceBEuizhmt6mrCNHKMns69D9yuAHkihnph3RUURf66namBVashBZREnED6ozjn96dh9KS1de3W=w1280",
+      "new_filename": "equipment-34.jpg",
+      "file_size": 35403
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkecJXnaPndwcmMSIwNaiI6R1UnkGOso1likZAKlCIHoJA_RK-jG48IlV8TMYbMs1ytlClkVTHyW0SY-T757DM_u2H5gaZ6dwjFJsusepCiVJM1d05cpgSJmtIvD8kSg7BQyCtMuqrkX42rHjN7TKDgIB1KSXhlSPZB_xF3mrvCLYaxPvSDiwFpl3j9t26DzLkkg8nqEGQ2zBSd5dCuC73MgDCm0juWK4WPI-5k=w1280",
+      "new_path": "facilities/equipment-35.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkecJXnaPndwcmMSIwNaiI6R1UnkGOso1likZAKlCIHoJA_RK-jG48IlV8TMYbMs1ytlClkVTHyW0SY-T757DM_u2H5gaZ6dwjFJsusepCiVJM1d05cpgSJmtIvD8kSg7BQyCtMuqrkX42rHjN7TKDgIB1KSXhlSPZB_xF3mrvCLYaxPvSDiwFpl3j9t26DzLkkg8nqEGQ2zBSd5dCuC73MgDCm0juWK4WPI-5k=w1280",
+      "new_filename": "equipment-35.jpg",
+      "file_size": 9604
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkecuegKg_3rLu-3ymUF5g3Qbhcr1egvpV0PA4q9g8I-Z1NIFYHR08ELOs04ejaNLXqDInBsc13Xaq443qKmvHZfOdGsDI8vGb58VwiC6mMqx6wikOkYjKIBPDO8JyHRNxQUIcj33Rmdr07h1pI_pI9z_8LsNgtTvj63jUhZUi5DbCEFrjSn9pKdK11haB6mkemSq_Soh-9Vj2Q5_pS5CGjaBwfU6iKNEgaO=w1280",
+      "new_path": "facilities/equipment-36.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkecuegKg_3rLu-3ymUF5g3Qbhcr1egvpV0PA4q9g8I-Z1NIFYHR08ELOs04ejaNLXqDInBsc13Xaq443qKmvHZfOdGsDI8vGb58VwiC6mMqx6wikOkYjKIBPDO8JyHRNxQUIcj33Rmdr07h1pI_pI9z_8LsNgtTvj63jUhZUi5DbCEFrjSn9pKdK11haB6mkemSq_Soh-9Vj2Q5_pS5CGjaBwfU6iKNEgaO=w1280",
+      "new_filename": "equipment-36.jpg",
+      "file_size": 11538
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkedJ_ZKACgOXZ6d5PyGkTt1HkQA742seHD7QjLzp4lhX5rCBsWThHo2irS3W-njgh5e6b9El4ekC33HPwA9n324yCG99Hj7e52STLF839yI9FD4rv2ExIsC_mK4AKmpitBqlBWl0U8Wji2E9GP_RlPCYdDK9K6JaT5rjbozp0KxLU4LFgAOHY90ahRVB8subSugJO-G9W80YY7zvYq8z3OzZMf1nkuxfAjw=w1280",
+      "new_path": "facilities/equipment-37.png",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkedJ_ZKACgOXZ6d5PyGkTt1HkQA742seHD7QjLzp4lhX5rCBsWThHo2irS3W-njgh5e6b9El4ekC33HPwA9n324yCG99Hj7e52STLF839yI9FD4rv2ExIsC_mK4AKmpitBqlBWl0U8Wji2E9GP_RlPCYdDK9K6JaT5rjbozp0KxLU4LFgAOHY90ahRVB8subSugJO-G9W80YY7zvYq8z3OzZMf1nkuxfAjw=w1280",
+      "new_filename": "equipment-37.png",
+      "file_size": 88345
+    },
+    {
+      "original_path": "imported/facilities/AAzXCketY-lWGxaV9z806mhGPdNaGk-S1uHWUk1J9qDM215ayJ1tnX6VlS-BVj8CF3l1g4j-wR8Q0gyHYXZO4t8Wx5Uoow21E3Kz_U1-HfYvuRSkaQsKAXb1GDeqHNc8MOh1Jf34pC6zl282zXmynRcykOsuWxGfRHCuaYuXghL5ZruZ0ruWbYA3kdvoCjWs-u-Kjg-UQUwSD5Uc1taHf9EXk3TIJ15e75RaK30T=w1280",
+      "new_path": "facilities/equipment-38.png",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCketY-lWGxaV9z806mhGPdNaGk-S1uHWUk1J9qDM215ayJ1tnX6VlS-BVj8CF3l1g4j-wR8Q0gyHYXZO4t8Wx5Uoow21E3Kz_U1-HfYvuRSkaQsKAXb1GDeqHNc8MOh1Jf34pC6zl282zXmynRcykOsuWxGfRHCuaYuXghL5ZruZ0ruWbYA3kdvoCjWs-u-Kjg-UQUwSD5Uc1taHf9EXk3TIJ15e75RaK30T=w1280",
+      "new_filename": "equipment-38.png",
+      "file_size": 33619
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfCrJnyvT5u6hF9Im8YzqdULii455ypyQF57ynalASyOOpHdQ0z8oFxaWK0fna5mHu-xg5QJ534HQJEUI5kS_t6sW3bifGfMgJHsb5h_uwPIMOPL--KQHhovAqoaGiWp31_3gyvM71kj7QLjCXe6GJoSSdLgoCthsF9A6TEBE0bYuXB3wT-61XJQXY=w1280",
+      "new_path": "facilities/equipment-39.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfCrJnyvT5u6hF9Im8YzqdULii455ypyQF57ynalASyOOpHdQ0z8oFxaWK0fna5mHu-xg5QJ534HQJEUI5kS_t6sW3bifGfMgJHsb5h_uwPIMOPL--KQHhovAqoaGiWp31_3gyvM71kj7QLjCXe6GJoSSdLgoCthsF9A6TEBE0bYuXB3wT-61XJQXY=w1280",
+      "new_filename": "equipment-39.jpg",
+      "file_size": 71885
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfFtKcmAQZH_4hdwj-Wv8R7-irolJEclrhm0x7J4q4S1r83Jg7FGa90EyDdZ45aRSPPovQgDkdd-NV3RgVgm1tBS8AcfjylFWIpDw9tFozJtVNGVl-tfVpFKj5Pr6zW18m9wOjdfl5Q0Gt_va7FsPjKNtKXFFFYygUv35OzqKbiq6cAtGCFm9dDA9lBrnslaAZY8ja76A4eYC1YyaSqE7delwnTSP4ukoX1SWE=w1280",
+      "new_path": "facilities/equipment-40.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfFtKcmAQZH_4hdwj-Wv8R7-irolJEclrhm0x7J4q4S1r83Jg7FGa90EyDdZ45aRSPPovQgDkdd-NV3RgVgm1tBS8AcfjylFWIpDw9tFozJtVNGVl-tfVpFKj5Pr6zW18m9wOjdfl5Q0Gt_va7FsPjKNtKXFFFYygUv35OzqKbiq6cAtGCFm9dDA9lBrnslaAZY8ja76A4eYC1YyaSqE7delwnTSP4ukoX1SWE=w1280",
+      "new_filename": "equipment-40.jpg",
+      "file_size": 6933
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfK1RV5t2BcCR_qUsw09A9oe0U6wdTw8OJ0IjzR4cvyDCSWwT7DlDZOCxz-N1nPx2F8RgwjV8K-0gKEA6a8ki3-0J0kgEIdPXyy5IzaW5NkrkY8pkGlBgkb44Zmwht9BeHdGTsmgFlPCYf0n31oDLCVFE7mLR-P5fZga-MZYVvJ0CNY8ZEwDq4vtP4C_EBdxxppCSeFBx6CWisHmQ9kZKfrUedsChsjdfkaiWk=w1280",
+      "new_path": "facilities/equipment-41.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfK1RV5t2BcCR_qUsw09A9oe0U6wdTw8OJ0IjzR4cvyDCSWwT7DlDZOCxz-N1nPx2F8RgwjV8K-0gKEA6a8ki3-0J0kgEIdPXyy5IzaW5NkrkY8pkGlBgkb44Zmwht9BeHdGTsmgFlPCYf0n31oDLCVFE7mLR-P5fZga-MZYVvJ0CNY8ZEwDq4vtP4C_EBdxxppCSeFBx6CWisHmQ9kZKfrUedsChsjdfkaiWk=w1280",
+      "new_filename": "equipment-41.jpg",
+      "file_size": 34641
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfQcfd2abmL2Pp2LqaEdBvVtjRKJAgncf9wwtOF_mGUC_IsrLGzj8I2iq5zhX5RS0Lw49L_P0doXKPcrCJErSG3GjtJ65qvP1wgAS4HalU3EbpOl_TUDFIYyDUz4ac9ZenTInZ667Ogac80wixoTnJmneUjWv39BJVkv6r6ZT1SUI7UuV7pibMrehwwF7sy3CuJwf71NSsN_jI_3GPTEynVLnWrpNUFrsKy=w1280",
+      "new_path": "facilities/equipment-42.png",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfQcfd2abmL2Pp2LqaEdBvVtjRKJAgncf9wwtOF_mGUC_IsrLGzj8I2iq5zhX5RS0Lw49L_P0doXKPcrCJErSG3GjtJ65qvP1wgAS4HalU3EbpOl_TUDFIYyDUz4ac9ZenTInZ667Ogac80wixoTnJmneUjWv39BJVkv6r6ZT1SUI7UuV7pibMrehwwF7sy3CuJwf71NSsN_jI_3GPTEynVLnWrpNUFrsKy=w1280",
+      "new_filename": "equipment-42.png",
+      "file_size": 968424
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfY39HhDDDPWpx3Ae0o9bd2IMwfjJJFDfZtyc3h93ykKHBAGX_WY6-6M7Bto4vHFN2UqEWGmbb1M6lOYQq58Gt8ltfKuUU_yXWfqAopcwJA-3I79xbv3AV-Bpd4-gMyxAOIAjicZJhx5TXA_fT8iixcawP9-2pQu5eo_cqn6F4FQk-HRXhMk_OXoNJYZMBIIlDCuatUZ7OXENoIhMLlqksO_UM2V1WBWvzKMaE=w1280",
+      "new_path": "facilities/equipment-43.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfY39HhDDDPWpx3Ae0o9bd2IMwfjJJFDfZtyc3h93ykKHBAGX_WY6-6M7Bto4vHFN2UqEWGmbb1M6lOYQq58Gt8ltfKuUU_yXWfqAopcwJA-3I79xbv3AV-Bpd4-gMyxAOIAjicZJhx5TXA_fT8iixcawP9-2pQu5eo_cqn6F4FQk-HRXhMk_OXoNJYZMBIIlDCuatUZ7OXENoIhMLlqksO_UM2V1WBWvzKMaE=w1280",
+      "new_filename": "equipment-43.jpg",
+      "file_size": 21589
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfiHFIsNvkhQLW37mgSfHc4MQmtsOVVdvkQIPDcmdTxKEI-gEqK8iBAvOwjnX4gCdpquUD7dRlwV1pROsc3WnTdNpWaRjAIOBXd6Gfkt9m24iKP4vBEDAK4RHKOPTdU5UWz3luF8fCe9xTwVEkWkt8IddBpDpP2B3f1XQDO1M1jNnqsSCpRAxz9eTjkj6x1WEctjCidmcHSevx_edmbR4dolxUrj7gdj4DMB2c=w1280",
+      "new_path": "facilities/equipment-44.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfiHFIsNvkhQLW37mgSfHc4MQmtsOVVdvkQIPDcmdTxKEI-gEqK8iBAvOwjnX4gCdpquUD7dRlwV1pROsc3WnTdNpWaRjAIOBXd6Gfkt9m24iKP4vBEDAK4RHKOPTdU5UWz3luF8fCe9xTwVEkWkt8IddBpDpP2B3f1XQDO1M1jNnqsSCpRAxz9eTjkj6x1WEctjCidmcHSevx_edmbR4dolxUrj7gdj4DMB2c=w1280",
+      "new_filename": "equipment-44.jpg",
+      "file_size": 24089
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfk-IT0R095cv3BvaWvLbhU5Wj-i9S_FzDNOoYoj7CbUsy86obOxUnXWW5w4wawTrHsHAHwPCfvhDt5OpTDmBrG1Jmts50vToH3650OeHFDBiQw-GqWBpL6nswVgQtZBpgnx6QBKcQCQ10ksszWWyshTJSwXnCjdr-1gazEbzcD_j-cfZZ3C2gUODHUTjWSPyWrVC5jf_jP-XIqrNG8ri7IIsW3gzWN_AeN7is=w1280",
+      "new_path": "facilities/equipment-45.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfk-IT0R095cv3BvaWvLbhU5Wj-i9S_FzDNOoYoj7CbUsy86obOxUnXWW5w4wawTrHsHAHwPCfvhDt5OpTDmBrG1Jmts50vToH3650OeHFDBiQw-GqWBpL6nswVgQtZBpgnx6QBKcQCQ10ksszWWyshTJSwXnCjdr-1gazEbzcD_j-cfZZ3C2gUODHUTjWSPyWrVC5jf_jP-XIqrNG8ri7IIsW3gzWN_AeN7is=w1280",
+      "new_filename": "equipment-45.jpg",
+      "file_size": 121253
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfkCOsTO7u9alrg8xXr7e-spcYwaSaVAcb4TVN2mXo8R3hr0I5Ick_L58puzIbRR3qE-TXXJsraXminGOKsA7Ar_1e8FZPtj7uNccZHFXHe2ffXzxBPiDczuGICQNq6w0HSV2TaqyPGcR8_jqfOnOzGseTctsxTSHlOUFil_-x5JmJDTMFauXNMoTDWvXYKSiFHByYGkOsXq9T7urB8awDMpOjSirq0UlgrTdw=w1280",
+      "new_path": "facilities/equipment-46.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfkCOsTO7u9alrg8xXr7e-spcYwaSaVAcb4TVN2mXo8R3hr0I5Ick_L58puzIbRR3qE-TXXJsraXminGOKsA7Ar_1e8FZPtj7uNccZHFXHe2ffXzxBPiDczuGICQNq6w0HSV2TaqyPGcR8_jqfOnOzGseTctsxTSHlOUFil_-x5JmJDTMFauXNMoTDWvXYKSiFHByYGkOsXq9T7urB8awDMpOjSirq0UlgrTdw=w1280",
+      "new_filename": "equipment-46.jpg",
+      "file_size": 13778
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkflFudo29gxxDOAnGQVj7rWDrZmW6JaUWZ9btHUs2gmdVUWN5zO5_hfi-s8aKN2a5dkUGVeOZdpwdvFbCGknbIVwiUdo6sDX6oR3zl_vHeFOYlD9Ayo4tOrtvr2AeTOYtodV--YLtfcgop4jh21DdSp2vM56Mg988PSV13qpUvSINcNrE4FPO_tFaJwVmJXnI1RV9HVyoTeKwGGCc-5GD9e78u6adqK6PaRXrg=w1280",
+      "new_path": "facilities/equipment-47.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkflFudo29gxxDOAnGQVj7rWDrZmW6JaUWZ9btHUs2gmdVUWN5zO5_hfi-s8aKN2a5dkUGVeOZdpwdvFbCGknbIVwiUdo6sDX6oR3zl_vHeFOYlD9Ayo4tOrtvr2AeTOYtodV--YLtfcgop4jh21DdSp2vM56Mg988PSV13qpUvSINcNrE4FPO_tFaJwVmJXnI1RV9HVyoTeKwGGCc-5GD9e78u6adqK6PaRXrg=w1280",
+      "new_filename": "equipment-47.jpg",
+      "file_size": 9085
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkflSEJ3ftoOLfAswPcrP4l8ESiVrc_8ge5IOYNcXS5jqj8adwW1u8kt244M5rTgkNdMpdp9IT-I-drbIxn6nd3kaFdh57nqFKQOQ4x0z_SkOMC5nnABeSbZ6HtgNPnETy0WGis_hwWP-JlUKsUF66jWsN3qtiYugbIvcEbAijKah8vTZJrrvV0crpRQcriVx55mMTKSuPQalTsrnGO94WXIpE5GLErRas45oZQ=w1280",
+      "new_path": "facilities/equipment-48.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkflSEJ3ftoOLfAswPcrP4l8ESiVrc_8ge5IOYNcXS5jqj8adwW1u8kt244M5rTgkNdMpdp9IT-I-drbIxn6nd3kaFdh57nqFKQOQ4x0z_SkOMC5nnABeSbZ6HtgNPnETy0WGis_hwWP-JlUKsUF66jWsN3qtiYugbIvcEbAijKah8vTZJrrvV0crpRQcriVx55mMTKSuPQalTsrnGO94WXIpE5GLErRas45oZQ=w1280",
+      "new_filename": "equipment-48.jpg",
+      "file_size": 60837
+    },
+    {
+      "original_path": "imported/facilities/AAzXCkfsQNmMexRlMuEe6PxaKiJoZA9b-oT-o2Ec27i0bXzBTihSjz9uu_sVLLDwUjxNI31gs6371k8orVlthsCXpseb5_-gwO8_Ccrkd_BjyZETgsRM7DIlhMJsc7V4tDwRuEpi1DlL3QHB4q16lYgopYTtmRK5miseu4FVXThHo5gTw_ESr1OCzA5Q3pLQ2AUfMPyxFpmEZZwySmHudbkuSLjDHp3kVr_5aFxw=w1280",
+      "new_path": "facilities/equipment-49.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "AAzXCkfsQNmMexRlMuEe6PxaKiJoZA9b-oT-o2Ec27i0bXzBTihSjz9uu_sVLLDwUjxNI31gs6371k8orVlthsCXpseb5_-gwO8_Ccrkd_BjyZETgsRM7DIlhMJsc7V4tDwRuEpi1DlL3QHB4q16lYgopYTtmRK5miseu4FVXThHo5gTw_ESr1OCzA5Q3pLQ2AUfMPyxFpmEZZwySmHudbkuSLjDHp3kVr_5aFxw=w1280",
+      "new_filename": "equipment-49.jpg",
+      "file_size": 123109
+    },
+    {
+      "original_path": "imported/facilities/film-applicator.jpg",
+      "new_path": "facilities/film-applicator.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "film-applicator.jpg",
+      "new_filename": "film-applicator.jpg",
+      "file_size": 21463
+    },
+    {
+      "original_path": "imported/facilities/schlenk-apparatus.jpg",
+      "new_path": "facilities/schlenk-apparatus.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "schlenk-apparatus.jpg",
+      "new_filename": "schlenk-apparatus.jpg",
+      "file_size": 21589
+    },
+    {
+      "original_path": "imported/facilities/solvent-purification.jpg",
+      "new_path": "facilities/solvent-purification.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "solvent-purification.jpg",
+      "new_filename": "solvent-purification.jpg",
+      "file_size": 6933
+    },
+    {
+      "original_path": "imported/facilities/spin-coater.jpg",
+      "new_path": "facilities/spin-coater.jpg",
+      "category": "facilities",
+      "source_page": "facilities",
+      "original_filename": "spin-coater.jpg",
+      "new_filename": "spin-coater.jpg",
+      "file_size": 16700
+    },
+    {
+      "original_path": "imported/home/AAzXCkcvsMBF-221hLdTJPo-T4GtDD8SEEDpbFwKhRsHndz0zzAfi1_2vjtLE0F_cGBUCK4YfEkHEIPPvdUuAko4yTDkvTIndhDlV8zk2i04FDrKmY9Q0C-QzqMqvqWLCW8_YxS98tBi8ytgPvTo2udJH4RHS4xscd3wCZ4aCbCDYvLE-7vrHcEHg3b3ZV8=w16383",
+      "new_path": "general/general-image-01.png",
+      "category": "general",
+      "source_page": "home",
+      "original_filename": "AAzXCkcvsMBF-221hLdTJPo-T4GtDD8SEEDpbFwKhRsHndz0zzAfi1_2vjtLE0F_cGBUCK4YfEkHEIPPvdUuAko4yTDkvTIndhDlV8zk2i04FDrKmY9Q0C-QzqMqvqWLCW8_YxS98tBi8ytgPvTo2udJH4RHS4xscd3wCZ4aCbCDYvLE-7vrHcEHg3b3ZV8=w16383",
+      "new_filename": "general-image-01.png",
+      "file_size": 36788
+    },
+    {
+      "original_path": "imported/contact/AAzXCkflrVQvEqGu6rTNkVyxpdcoV-AFqWuEXGCLU5BZE7ShhR6MSdHEfViZH5ZtEERAKwCFzN8FvcYOGIDLX1Oyt7MstJh7R2a9FhekI99my9oYEC8DKhvNlmPbwN-hDd0bPyXPUVRsz1oknz1oL2_rNNN-VIoOVqtyiXkEbZYRDii1mDdT6WKp9yrumAtG3b8CGJ6W8nNYJ_Ez1Bww_HpFuwIZM-3oDGm5vHxSJUQ=w1280",
+      "new_path": "general/general-image-02.jpg",
+      "category": "general",
+      "source_page": "contact",
+      "original_filename": "AAzXCkflrVQvEqGu6rTNkVyxpdcoV-AFqWuEXGCLU5BZE7ShhR6MSdHEfViZH5ZtEERAKwCFzN8FvcYOGIDLX1Oyt7MstJh7R2a9FhekI99my9oYEC8DKhvNlmPbwN-hDd0bPyXPUVRsz1oknz1oL2_rNNN-VIoOVqtyiXkEbZYRDii1mDdT6WKp9yrumAtG3b8CGJ6W8nNYJ_Ez1Bww_HpFuwIZM-3oDGm5vHxSJUQ=w1280",
+      "new_filename": "general-image-02.jpg",
+      "file_size": 203975
+    }
+  ],
+  "invalid_files": [
+    {
+      "original_path": "imported/research/adaptive-nanocomposites.jpg",
+      "source_page": "research",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/research/non-equilibrium-physics.jpg",
+      "source_page": "research",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/research/redox-gating.jpg",
+      "source_page": "research",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/dma-ta-q800.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/dsc-ta-q2000.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/glovebox.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/icp-oes.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/parr-reactors.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/qcm-d.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/rheometer-dhr2.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    },
+    {
+      "original_path": "imported/facilities/vacuum-ovens.jpg",
+      "source_page": "facilities",
+      "reason": "HTML error page (not an actual image)"
+    }
+  ],
+  "summary": {
+    "total_images": 75,
+    "invalid_files": 11,
+    "by_category": {
+      "team": 12,
+      "research": 7,
+      "facilities": 53,
+      "general": 3
+    }
+  }
+}
