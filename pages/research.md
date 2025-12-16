@@ -9,7 +9,7 @@ hero_subtitle: "Advancing sustainable materials through innovative science"
 
 ## Adaptive and Dynamic Nanocomposites
 
-![Adaptive and Dynamic Nanocomposites](/assets/img/research/hetero-charged-polymers.jpg)
+![Adaptive and Dynamic Nanocomposites](/assets/img/research/research-diagram-04.jpg)
 
 We develop adaptive and dynamic nanocomposites made of polymers and nanofillers connected by reversible bonds. These materials can change shape, stiffness, or conductivity in response to heat, stress, or electric fields. They are strong, self-healing, and recyclable.
 
@@ -47,7 +47,7 @@ Using an *in situ* shearing X-ray system developed at the Advanced Photon Source
 
 ## Redox Gating
 
-![Redox Gating](/assets/img/research/sustainable-biocomposites.jpg)
+![Redox Gating](/assets/img/research/research-diagram-05.jpg)
 
 Redox gating is a novel method to modulate charge carrier densities exceeding 10^16 cm^-2, enabling precise control of electronic transitions in thin-film semiconductors. Unlike traditional ionic gating, it operates at sub-volt levels, reducing the risk of material damage while supporting metal-insulator transitions (MIT) in materials like WO3, VO2, and LaNiO3.
 
