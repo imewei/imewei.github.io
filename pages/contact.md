@@ -7,7 +7,7 @@ hero_title: "Contact"
 hero_subtitle: ""
 ---
 
-<!-- Building 241 image needed - obtain from Google Sites manually -->
+![Argonne Energy Sciences Building (Building 241)](/assets/img/general/Energy_Sciences_Building.jpg)
 
 **Wei Chen, Ph.D.**
 
