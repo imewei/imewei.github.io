@@ -17,5 +17,6 @@ agent-os/
 .gemini/
 .code/
 .specify/
-.venv
+.venv/
+specs/
 .agent/
