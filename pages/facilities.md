@@ -310,6 +310,8 @@ Rheological characterization of soft materials.
 
 ### DHR-3 Rheometer with Dielectric Spectroscopy (TA Instruments)
 
+![DHR-3 Rheometer with Dielectric Spectroscopy (TA Instruments)](/assets/img/facilities/equipment-47.jpg)
+
 Combined rheology and dielectric analysis.
 
 ---
