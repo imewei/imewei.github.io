@@ -526,9 +526,9 @@ Our team has access to world-class user facilities at Argonne National Laborator
 
 ![Advanced Photon Source](/assets/img/facilities/equipment-42.png)
 
-- **Beamline 8-ID-I:** [X-ray Photon Correlation Spectroscopy](https://www.aps.anl.gov/Feature-Beamlines/X-ray-Photon-Correlation-Spectroscopy)
-- **Beamline 9-ID-C:** [Coherent Surface Scattering & Imaging](https://www.aps.anl.gov/Feature-Beamlines/Coherent-Surface-Scattering-Imaging)
-- **Beamline 6-ID-D:** [Coherent High-Energy X-ray](https://www.aps.anl.gov/Feature-Beamlines/Coherent-High-Energy-X-ray)
+- **Beamline 8-ID:** [X-ray Photon Correlation Spectroscopy](https://www.aps.anl.gov/Feature-Beamlines/X-ray-Photon-Correlation-Spectroscopy)
+- **Beamline 9-ID:** [Coherent Surface Scattering & Imaging](https://www.aps.anl.gov/Feature-Beamlines/Coherent-Surface-Scattering-Imaging)
+- **Beamline 28-ID:** [Coherent High-Energy X-ray](https://www.aps.anl.gov/Feature-Beamlines/Coherent-High-Energy-X-ray)
 
 ### [Center for Nanoscale Materials (CNM)](https://cnm.anl.gov/)
 
