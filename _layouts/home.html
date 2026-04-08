@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <div class="site-brand">
+          <a href="https://www.anl.gov" rel="noopener" aria-label="Argonne National Laboratory" class="site-logo-link">
+            <img src="{{ '/assets/img/general/ANL_Color Logo with White Type for Digital.png' | relative_url }}" alt="Argonne National Laboratory" class="site-logo">
+          </a>
+          <span class="site-brand__divider" aria-hidden="true"></span>
+          <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </div>
+        {% include nav.html %}
+      </div>
+    </header>
+
+    {% if page.hero_image %}
+    <section class="hero" style="background-image:url('{{ page.hero_image | relative_url }}');">
+      <div class="hero__content">
+        <p class="eyebrow">{{ page.hero_kicker | default: 'Chen Team' }}</p>
+        <h1>{{ page.hero_title | default: page.title }}</h1>
+        {% if page.hero_subtitle %}<p>{{ page.hero_subtitle }}</p>{% endif %}
+      </div>
+    </section>
+    {% endif %}
+
+    <main id="content" class="site-main site-main--home">
+
+      <section class="home-intro">
+        <div class="container">
+          <p class="home-intro__lead">{{ page.intro }}</p>
+          <p class="home-intro__sub">{{ page.intro_detail }}</p>
+        </div>
+      </section>
+
+      <section class="home-research">
+        <div class="container">
+          <h2 class="home-research__heading">Research Areas</h2>
+          <div class="home-research__grid">
+            {% for area in page.research_areas %}
+            <a href="{{ area.url }}" class="research-card">
+              <div class="research-card__img-wrap">
+                <img src="{{ area.image | relative_url }}" alt="{{ area.title }}" loading="lazy" decoding="async">
+              </div>
+              <div class="research-card__body">
+                <h3>{{ area.title }}</h3>
+                <p>{{ area.description }}</p>
+              </div>
+              <span class="research-card__arrow" aria-hidden="true">&rarr;</span>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+
+      {% if page.closing %}
+      <section class="home-closing">
+        <div class="container">
+          <p>{{ page.closing }}</p>
+          <a href="/research/" class="btn-cta">Explore Our Research</a>
+        </div>
+      </section>
+      {% endif %}
+
+    </main>
+
+    {% include footer.html %}
+    <script>
+      document.querySelectorAll('.page img:not([loading])').forEach(function(img) {
+        img.loading = 'lazy';
+        img.decoding = 'async';
+      });
+    </script>
+  </body>
+</html>
