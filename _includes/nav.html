@@ -11,3 +11,15 @@
     {% endfor %}
   </ul>
 </nav>
+<script>
+(function(){
+  var btn = document.querySelector('.nav-toggle');
+  var menu = document.getElementById('primary-menu');
+  if (!btn || !menu) return;
+  btn.addEventListener('click', function(){
+    var open = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !open);
+    menu.classList.toggle('is-open', !open);
+  });
+})();
+</script>

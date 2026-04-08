@@ -20,7 +20,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: /assets/img/hero-placeholder.jpg
+      hero_image: /assets/img/general/hero-banner.jpg
   - scope:
       path: ""
     values:

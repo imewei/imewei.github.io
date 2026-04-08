@@ -6,7 +6,12 @@
   <body>
     <header class="site-header">
       <div class="container">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <div class="site-brand">
+          <a href="https://www.anl.gov" rel="noopener" aria-label="Argonne National Laboratory" class="site-logo-link">
+            <img src="{{ '/assets/img/general/ANL_White Wireframe Logo for Digital.png' | relative_url }}" alt="Argonne National Laboratory" class="site-logo">
+          </a>
+          <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </div>
         {% include nav.html %}
       </div>
     </header>
@@ -28,5 +33,11 @@
     </main>
 
     {% include footer.html %}
+    <script>
+      document.querySelectorAll('.page img:not([loading])').forEach(function(img) {
+        img.loading = 'lazy';
+        img.decoding = 'async';
+      });
+    </script>
   </body>
 </html>
