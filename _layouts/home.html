@@ -20,7 +20,7 @@
     {% if page.hero_image %}
     <section class="hero" style="background-image:url('{{ page.hero_image | relative_url }}');">
       <div class="hero__content">
-        <p class="eyebrow">{{ page.hero_kicker | default: 'Chen Team' }}</p>
+        {% if page.hero_kicker %}<p class="eyebrow">{{ page.hero_kicker }}</p>{% endif %}
         <h1>{{ page.hero_title | default: page.title }}</h1>
         {% if page.hero_subtitle %}<p>{{ page.hero_subtitle }}</p>{% endif %}
       </div>
@@ -60,7 +60,7 @@
       <section class="home-closing">
         <div class="container">
           <p>{{ page.closing }}</p>
-          <a href="/research/" class="btn-cta">Explore Our Research</a>
+          <a href="{{ page.closing_cta_url | default: '/research/' }}" class="btn-cta">{{ page.closing_cta_text | default: 'Explore Our Research' }}</a>
         </div>
       </section>
       {% endif %}
