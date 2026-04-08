@@ -4,28 +4,8 @@
     {% include head.html %}
   </head>
   <body>
-    <header class="site-header">
-      <div class="container">
-        <div class="site-brand">
-          <a href="https://www.anl.gov" rel="noopener" aria-label="Argonne National Laboratory" class="site-logo-link">
-            <img src="{{ '/assets/img/general/ANL_Color Logo with White Type for Digital.png' | relative_url }}" alt="Argonne National Laboratory" class="site-logo">
-          </a>
-          <span class="site-brand__divider" aria-hidden="true"></span>
-          <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        </div>
-        {% include nav.html %}
-      </div>
-    </header>
-
-    {% if page.hero_image %}
-    <section class="hero" style="background-image:url('{{ page.hero_image | relative_url }}');">
-      <div class="hero__content">
-        {% if page.hero_kicker %}<p class="eyebrow">{{ page.hero_kicker }}</p>{% endif %}
-        <h1>{{ page.hero_title | default: page.title }}</h1>
-        {% if page.hero_subtitle %}<p>{{ page.hero_subtitle }}</p>{% endif %}
-      </div>
-    </section>
-    {% endif %}
+    {% include header.html %}
+    {% include hero.html %}
 
     <main id="content" class="site-main">
       <div class="container">
