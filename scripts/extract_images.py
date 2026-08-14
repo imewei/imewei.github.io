@@ -8,7 +8,6 @@ and downloads any missing images at highest resolution.
 Requirements: Python 3.12+, requests, beautifulsoup4
 """
 
-import hashlib
 import json
 import re
 import sys
@@ -142,7 +141,6 @@ def scan_cache_for_images() -> dict[str, list[dict[str, Any]]]:
 
         page_info = PAGE_MAPPING[filename]
         page_name = page_info["page"]
-        source_url = page_info["url"]
 
         print(f"Scanning: {page_name} ({filename[:20]}...)")
 
@@ -304,9 +302,6 @@ def main() -> None:
             high_res_url = get_high_res_url(img["normalized_url"])
             filename = img["filename"]
             primary_page = img["pages"][0]
-
-            # Determine extension based on URL or default to jpg
-            extension = ".jpg"
 
             dest_path = ASSETS_DIR / primary_page / f"{filename}=w16383"
 
