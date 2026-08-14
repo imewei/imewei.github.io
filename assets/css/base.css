@@ -135,9 +135,9 @@ img { max-width: 100%; height: auto; }
 .site-nav a {
   color: var(--color-text-muted);
   text-decoration: none;
-  padding: var(--space-2) var(--space-3);
+  padding: var(--space-2);
   transition: color 200ms var(--ease);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
 }
 .site-nav a[aria-current="page"] {
   color: var(--color-gold);
@@ -349,7 +349,9 @@ img { max-width: 100%; height: auto; }
   height: auto;
 }
 
-/* Research page: constrain diagram images, center them */
+/* Research page: constrain diagram images, center them, match the
+   dark-card treatment used on facilities/homepage so imported
+   white-background diagrams don't float unstyled on the page. */
 .page--research img:not(.site-logo) {
   display: block;
   max-width: 720px;
@@ -357,7 +359,11 @@ img { max-width: 100%; height: auto; }
   margin-inline: auto;
   margin-bottom: var(--space-6);
   border-radius: 6px;
+  border: 1px solid var(--color-border);
   box-shadow: var(--shadow-1);
+  background: var(--color-slate-700);
+  padding: var(--space-3);
+  box-sizing: border-box;
 }
 
 /* Facilities page: constrain equipment images */
@@ -400,8 +406,11 @@ img { max-width: 100%; height: auto; }
   font-size: var(--fs-base);
   font-weight: 300;
   color: var(--color-text-muted);
-  margin: 0;
+  margin: var(--space-4) 0 0;
   line-height: var(--lh-normal);
+}
+.home-intro__sub:first-of-type {
+  margin-top: 0;
 }
 
 /* ─── Research cards ─── */
@@ -517,6 +526,9 @@ img { max-width: 100%; height: auto; }
   font-family: var(--font-display);
   font-size: var(--fs-2xl);
   font-weight: 400;
+  /* Anchored deep links (e.g. homepage research cards) must not land
+     the heading under the sticky header. */
+  scroll-margin-top: calc(var(--header-height) + var(--space-6));
 }
 .page h3 {
   font-weight: 600;

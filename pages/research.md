@@ -10,7 +10,7 @@ hero_title: "Research"
 hero_subtitle: "Advancing sustainable materials through innovative science"
 ---
 
-## Adaptive and Dynamic Nanocomposites
+## Adaptive and Dynamic Nanocomposites {#adaptive-nanocomposites}
 
 ![Adaptive and Dynamic Nanocomposites](/assets/img/research/adaptive-nanocomposites.jpg)
 
@@ -20,7 +20,7 @@ Nanofillers such as nanoparticles, nanoclays, and fibers improve mechanical and 
 
 Our research focuses on designing these materials for real-world use in biomedical devices, soft robotics, energy storage, smart infrastructure, and other areas that need reliable and sustainable performance.
 
-## Non-Equilibrium Physics
+## Non-Equilibrium Physics {#non-equilibrium-physics}
 
 ![Non-Equilibrium Physics](/assets/img/research/non-equilibrium-physics.jpg)
 
@@ -30,7 +30,7 @@ Unlike conventional materials, these systems operate far from equilibrium: bonds
 
 With the APS upgrade, we can access faster dynamics, detect weaker signals, and observe structural changes like phase transitions and network rearrangements in real time. These insights support better predictive models and enable the design of durable, responsive, and recyclable nanocomposites.
 
-## Sustainable Biocomposites
+## Sustainable Biocomposites {#sustainable-biocomposites}
 
 ![Sustainable Biocomposites](/assets/img/research/sustainable-biocomposites.jpg)
 
