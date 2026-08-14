@@ -406,11 +406,14 @@ img { max-width: 100%; height: auto; }
   font-size: var(--fs-base);
   font-weight: 300;
   color: var(--color-text-muted);
-  margin: var(--space-4) 0 0;
+  margin: 0;
   line-height: var(--lh-normal);
 }
-.home-intro__sub:first-of-type {
-  margin-top: 0;
+/* :first-of-type would match the <p class="home-intro__lead"> that
+   precedes these (first <p> sibling, regardless of class) — use an
+   adjacent-sibling selector so only paragraphs after the first get the gap. */
+.home-intro__sub + .home-intro__sub {
+  margin-top: var(--space-4);
 }
 
 /* ─── Research cards ─── */
@@ -559,8 +562,9 @@ img { max-width: 100%; height: auto; }
 }
 
 /* ─── Nav collapses earlier than other layout breakpoints — 8 items
-   plus brand don't fit a single row past ~1024px. ─── */
-@media (max-width: 1024px) {
+   plus brand don't fit a single row past ~1024px. Boundary matches the
+   tablet block below (1023px) so there's no one-pixel seam between them. ─── */
+@media (max-width: 1023px) {
   .nav-toggle {
     display: flex;
   }
