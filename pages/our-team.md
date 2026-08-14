@@ -1,6 +1,9 @@
 ---
 title: "Our Team"
 permalink: /our-team/
+description: >-
+  Meet the researchers, postdocs, and students of Dr. Wei Chen's soft matter
+  research group at Argonne National Laboratory.
 source_url: https://sites.google.com/view/msdsoftmatter/our-team
 last_imported: 2025-11-13T04:28:12Z
 hero_image: /assets/img/general/hero-banner.jpg

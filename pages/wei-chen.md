@@ -1,6 +1,9 @@
 ---
 title: "Wei Chen"
 permalink: /wei-chen/
+description: >-
+  Dr. Wei Chen, Materials Science Division, Argonne National Laboratory —
+  principal investigator of the MSD Soft Matter Lab.
 source_url: https://sites.google.com/view/msdsoftmatter/wei-chen
 last_imported: 2025-11-13T04:28:09Z
 hero_image: /assets/img/general/hero-banner.jpg

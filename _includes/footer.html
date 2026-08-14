@@ -1,5 +1,6 @@
 <footer class="site-footer">
   <div class="container">
-    <p>Get in touch with us at <a href="mailto:wchen@anl.gov">wchen@anl.gov</a></p>
+    {% assign contact_email = site.email | default: "wchen@anl.gov" %}
+    <p>Get in touch with us at <a href="mailto:{{ contact_email }}">{{ contact_email }}</a></p>
   </div>
 </footer>

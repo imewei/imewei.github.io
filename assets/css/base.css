@@ -11,8 +11,8 @@
   --color-slate-900: #12141a;
   --color-slate-800: #1a1d23;
   --color-slate-700: #23272f;
-  --color-slate-600: #2e333d;
-  --color-slate-500: #3d4351;
+  --color-slate-900-rgb: 18, 20, 26;
+  --color-white: #ffffff;
   --color-text: #e4e4e7;
   --color-text-muted: #9ca0ab;
   --color-border: rgba(255, 255, 255, 0.08);
@@ -135,9 +135,9 @@ img { max-width: 100%; height: auto; }
 .site-nav a {
   color: var(--color-text-muted);
   text-decoration: none;
-  padding: var(--space-2) var(--space-3);
+  padding: var(--space-2);
   transition: color 200ms var(--ease);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
 }
 .site-nav a[aria-current="page"] {
   color: var(--color-gold);
@@ -152,7 +152,11 @@ img { max-width: 100%; height: auto; }
   background: none;
   border: none;
   cursor: pointer;
-  padding: var(--space-2);
+  padding: var(--space-3);
+  min-width: 44px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   gap: 5px;
 }
@@ -191,7 +195,7 @@ img { max-width: 100%; height: auto; }
   height: 480px;
   display: grid;
   place-items: center;
-  color: #fff;
+  color: var(--color-white);
   background-size: cover;
   background-position: center 40%;
 }
@@ -201,8 +205,8 @@ img { max-width: 100%; height: auto; }
   inset: 0;
   background: linear-gradient(
     170deg,
-    rgba(18, 20, 26, 0.5) 0%,
-    rgba(18, 20, 26, 0.75) 100%
+    rgba(var(--color-slate-900-rgb), 0.5) 0%,
+    rgba(var(--color-slate-900-rgb), 0.75) 100%
   );
 }
 .hero__content {
@@ -345,7 +349,9 @@ img { max-width: 100%; height: auto; }
   height: auto;
 }
 
-/* Research page: constrain diagram images, center them */
+/* Research page: constrain diagram images, center them, match the
+   dark-card treatment used on facilities/homepage so imported
+   white-background diagrams don't float unstyled on the page. */
 .page--research img:not(.site-logo) {
   display: block;
   max-width: 720px;
@@ -353,7 +359,11 @@ img { max-width: 100%; height: auto; }
   margin-inline: auto;
   margin-bottom: var(--space-6);
   border-radius: 6px;
+  border: 1px solid var(--color-border);
   box-shadow: var(--shadow-1);
+  background: var(--color-slate-700);
+  padding: var(--space-3);
+  box-sizing: border-box;
 }
 
 /* Facilities page: constrain equipment images */
@@ -398,6 +408,12 @@ img { max-width: 100%; height: auto; }
   color: var(--color-text-muted);
   margin: 0;
   line-height: var(--lh-normal);
+}
+/* :first-of-type would match the <p class="home-intro__lead"> that
+   precedes these (first <p> sibling, regardless of class) — use an
+   adjacent-sibling selector so only paragraphs after the first get the gap. */
+.home-intro__sub + .home-intro__sub {
+  margin-top: var(--space-4);
 }
 
 /* ─── Research cards ─── */
@@ -513,6 +529,9 @@ img { max-width: 100%; height: auto; }
   font-family: var(--font-display);
   font-size: var(--fs-2xl);
   font-weight: 400;
+  /* Anchored deep links (e.g. homepage research cards) must not land
+     the heading under the sticky header. */
+  scroll-margin-top: calc(var(--header-height) + var(--space-6));
 }
 .page h3 {
   font-weight: 600;
@@ -523,8 +542,29 @@ img { max-width: 100%; height: auto; }
   margin-block: var(--space-6);
 }
 
-/* ─── Mobile responsive ─── */
-@media (max-width: 768px) {
+/* ─── Reduced motion ─── */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .research-card:hover {
+    transform: none;
+  }
+  .research-card:hover .research-card__img-wrap img {
+    transform: none;
+  }
+  .research-card:hover .research-card__arrow {
+    transform: none;
+  }
+}
+
+/* ─── Nav collapses earlier than other layout breakpoints — 8 items
+   plus brand don't fit a single row past ~1024px. Boundary matches the
+   tablet block below (1023px) so there's no one-pixel seam between them. ─── */
+@media (max-width: 1023px) {
   .nav-toggle {
     display: flex;
   }
@@ -548,6 +588,20 @@ img { max-width: 100%; height: auto; }
     display: block;
     padding: var(--space-3) var(--space-4);
   }
+}
+
+/* ─── Tablet responsive ─── */
+@media (min-width: 769px) and (max-width: 1023px) {
+  .home-research__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .team-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  }
+}
+
+/* ─── Mobile responsive ─── */
+@media (max-width: 768px) {
   .two-col {
     grid-template-columns: 1fr;
   }

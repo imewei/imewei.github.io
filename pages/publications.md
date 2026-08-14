@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 permalink: /publications/
+description: >-
+  Recent journal publications and patents from the MSD Soft Matter Lab at
+  Argonne National Laboratory.
 source_url: https://sites.google.com/view/msdsoftmatter/publications
 last_imported: 2025-11-13T04:28:17Z
 hero_title: "Publications"

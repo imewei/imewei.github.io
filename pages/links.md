@@ -1,6 +1,8 @@
 ---
 title: "Links"
 permalink: /links/
+description: >-
+  Internal lab resources and external reference links for the MSD Soft Matter Lab.
 source_url: https://sites.google.com/view/msdsoftmatter/links
 last_imported: 2025-12-15
 hero_title: "Links"

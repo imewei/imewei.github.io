@@ -1,6 +1,9 @@
 ---
 title: "Contact"
 permalink: /contact/
+description: >-
+  Contact Dr. Wei Chen and the MSD Soft Matter Lab at Argonne National
+  Laboratory and the University of Chicago.
 source_url: https://sites.google.com/view/msdsoftmatter/contact
 last_imported: 2025-12-15
 hero_image: /assets/img/general/hero-banner.jpg

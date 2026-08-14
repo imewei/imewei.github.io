@@ -1,6 +1,9 @@
 ---
 title: "Facilities"
 permalink: /facilities/
+description: >-
+  Equipment and instrumentation used by the MSD Soft Matter Lab for materials
+  synthesis, characterization, and analysis, including access to Argonne user facilities.
 source_url: https://sites.google.com/view/msdsoftmatter/facilities
 last_imported: 2025-12-16
 hero_title: "Research Facilities"
@@ -524,7 +527,7 @@ Our team has access to world-class user facilities at Argonne National Laborator
 
 ### [Advanced Photon Source (APS)](https://www.aps.anl.gov/)
 
-![Advanced Photon Source](/assets/img/facilities/equipment-42.png)
+![Advanced Photon Source](/assets/img/facilities/equipment-42.jpg)
 
 - **Beamline 8-ID:** [X-ray Photon Correlation Spectroscopy](https://www.aps.anl.gov/Feature-Beamlines/X-ray-Photon-Correlation-Spectroscopy)
 - **Beamline 9-ID:** [Coherent Surface Scattering & Imaging](https://www.aps.anl.gov/Feature-Beamlines/Coherent-Surface-Scattering-Imaging)

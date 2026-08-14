@@ -12,7 +12,9 @@
       <section class="home-intro">
         <div class="container">
           <p class="home-intro__lead">{{ page.intro }}</p>
-          <p class="home-intro__sub">{{ page.intro_detail }}</p>
+          {% for para in page.intro_detail %}
+          <p class="home-intro__sub">{{ para }}</p>
+          {% endfor %}
         </div>
       </section>
 
@@ -48,11 +50,5 @@
     </main>
 
     {% include footer.html %}
-    <script>
-      document.querySelectorAll('.page img:not([loading])').forEach(function(img) {
-        img.loading = 'lazy';
-        img.decoding = 'async';
-      });
-    </script>
   </body>
 </html>
