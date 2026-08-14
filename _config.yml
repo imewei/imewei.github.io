@@ -5,6 +5,13 @@ url: https://imewei.github.io
 baseurl: ""
 timezone: America/Chicago
 permalink: pretty
+email: wchen@anl.gov
+logo: /assets/img/general/ANL_Color Logo with White Type for Digital.png
+
+twitter:
+  card: summary_large_image
+social:
+  name: MSD Soft Matter Lab
 
 plugins:
   - jekyll-seo-tag
@@ -21,6 +28,7 @@ defaults:
     values:
       layout: page
       hero_image: /assets/img/general/hero-banner.jpg
+      image: /assets/img/general/hero-banner.jpg
   - scope:
       path: ""
     values:

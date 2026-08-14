@@ -1,6 +1,9 @@
 ---
 title: "Research"
 permalink: /research/
+description: >-
+  Research areas of the MSD Soft Matter Lab: adaptive nanocomposites, dense
+  suspension rheology, and in situ X-ray characterization at the Advanced Photon Source.
 source_url: https://sites.google.com/view/msdsoftmatter/research
 last_imported: 2025-11-13T04:28:15Z
 hero_title: "Research"

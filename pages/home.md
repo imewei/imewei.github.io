@@ -2,6 +2,10 @@
 title: "MSD Soft Matter Lab"
 permalink: /
 layout: home
+description: >-
+  Dr. Wei Chen's soft matter research group at Argonne National Laboratory studies
+  colloidal suspensions, vitrimer nanocomposites, and battery slurries with in situ
+  Rheo-SAXS-XPCS at the Advanced Photon Source.
 source_url: https://sites.google.com/view/msdsoftmatter/home
 last_imported: 2025-11-13T04:28:07Z
 hero_image: /assets/img/general/hero-banner.jpg

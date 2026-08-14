@@ -1,0 +1,6 @@
+<script>
+  document.querySelectorAll('.page img:not([loading])').forEach(function(img) {
+    img.loading = 'lazy';
+    img.decoding = 'async';
+  });
+</script>

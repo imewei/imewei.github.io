@@ -11,8 +11,8 @@
   --color-slate-900: #12141a;
   --color-slate-800: #1a1d23;
   --color-slate-700: #23272f;
-  --color-slate-600: #2e333d;
-  --color-slate-500: #3d4351;
+  --color-slate-900-rgb: 18, 20, 26;
+  --color-white: #ffffff;
   --color-text: #e4e4e7;
   --color-text-muted: #9ca0ab;
   --color-border: rgba(255, 255, 255, 0.08);
@@ -191,7 +191,7 @@ img { max-width: 100%; height: auto; }
   height: 480px;
   display: grid;
   place-items: center;
-  color: #fff;
+  color: var(--color-white);
   background-size: cover;
   background-position: center 40%;
 }
@@ -201,8 +201,8 @@ img { max-width: 100%; height: auto; }
   inset: 0;
   background: linear-gradient(
     170deg,
-    rgba(18, 20, 26, 0.5) 0%,
-    rgba(18, 20, 26, 0.75) 100%
+    rgba(var(--color-slate-900-rgb), 0.5) 0%,
+    rgba(var(--color-slate-900-rgb), 0.75) 100%
   );
 }
 .hero__content {
