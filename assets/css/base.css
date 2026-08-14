@@ -152,7 +152,11 @@ img { max-width: 100%; height: auto; }
   background: none;
   border: none;
   cursor: pointer;
-  padding: var(--space-2);
+  padding: var(--space-3);
+  min-width: 44px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   gap: 5px;
 }
@@ -523,8 +527,28 @@ img { max-width: 100%; height: auto; }
   margin-block: var(--space-6);
 }
 
-/* ─── Mobile responsive ─── */
-@media (max-width: 768px) {
+/* ─── Reduced motion ─── */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .research-card:hover {
+    transform: none;
+  }
+  .research-card:hover .research-card__img-wrap img {
+    transform: none;
+  }
+  .research-card:hover .research-card__arrow {
+    transform: none;
+  }
+}
+
+/* ─── Nav collapses earlier than other layout breakpoints — 8 items
+   plus brand don't fit a single row past ~1024px. ─── */
+@media (max-width: 1024px) {
   .nav-toggle {
     display: flex;
   }
@@ -548,6 +572,20 @@ img { max-width: 100%; height: auto; }
     display: block;
     padding: var(--space-3) var(--space-4);
   }
+}
+
+/* ─── Tablet responsive ─── */
+@media (min-width: 769px) and (max-width: 1023px) {
+  .home-research__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .team-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  }
+}
+
+/* ─── Mobile responsive ─── */
+@media (max-width: 768px) {
   .two-col {
     grid-template-columns: 1fr;
   }
