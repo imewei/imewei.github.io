@@ -11,13 +11,12 @@ Requirements: Python 3.12+, requests, beautifulsoup4, markdownify (optional)
 
 import argparse
 import hashlib
-import json
 import re
 import sys
 import time
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Optional, Sequence
+from typing import Optional, Sequence
 from urllib.parse import urljoin, urlparse
 
 import requests
@@ -307,7 +306,7 @@ Examples:
 
     args = parser.parse_args()
 
-    print(f"MSD Soft Matter Lab - Google Sites Importer")
+    print("MSD Soft Matter Lab - Google Sites Importer")
     print(f"Source: {BASE_URL}")
     print(f"Delay: {args.delay}s, Force: {args.force}")
 
