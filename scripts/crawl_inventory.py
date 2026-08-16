@@ -2,6 +2,7 @@ import json
 import time
 from collections import deque
 from pathlib import Path
+from typing import Optional
 from urllib.parse import urldefrag, urljoin
 
 import requests
@@ -10,9 +11,6 @@ from bs4 import BeautifulSoup
 
 START_URL = "https://sites.google.com/view/msdsoftmatter/"
 OUTPUT_DIR = Path("docs")
-
-
-from typing import Optional
 
 
 def normalize_internal(url: str) -> Optional[str]:
