@@ -20,3 +20,4 @@ agent-os/
 .venv/
 specs/
 .agent/
+.claude-flow/
